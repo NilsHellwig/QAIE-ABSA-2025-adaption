@@ -81,7 +81,7 @@ for task in TASKS:
     for dataset_type in DATASET_TYPE:
         for dataset in DATASETS:
             data_path = f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
-            datai_path = f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_aug.txt"
+            datai_path = f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_im.txt"
             # create datai directories if not exist
             datai_dir = os.path.dirname(datai_path)
             if not os.path.exists(datai_dir):
@@ -94,7 +94,7 @@ for task in TASKS:
     for n_shot in N_SHOTS:
         for dataset in DATASETS:
             data_path = f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/examples.txt"
-            datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/examples_aug.txt"
+            datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/examples_im.txt"
             # create datai directories if not exist
             datai_dir = os.path.dirname(datai_path)
             if not os.path.exists(datai_dir):
