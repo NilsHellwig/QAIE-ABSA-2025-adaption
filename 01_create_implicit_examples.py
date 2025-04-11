@@ -34,7 +34,13 @@ def ask_question(question, x):
     if x == 2:
         prompt = f"Q: {question1}\nA: {answer1}\nQ: {question2}\nA: {answer2}\nQ: {question}\nA:"
 
-    answer = model.predict(prompt, seed=0, stop=[], temperature=0.8)[0]
+    pred_ok = False
+    while pred_ok != True:
+       try:
+         answer = model.predict(prompt, seed=0, stop=[], temperature=0.8)[0]
+         pred_ok = True
+       except:
+          pass
     return answer
 
 
