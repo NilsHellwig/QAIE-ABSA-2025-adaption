@@ -34,11 +34,11 @@ def ask_question(question, x):
 
     pred_ok = False
     while pred_ok != True:
-       try:
-         answer = model.predict(prompt, seed=0, stop=[], temperature=0.8)[0]
-         pred_ok = True
-       except:
-          pass
+        try:
+            answer = model.predict(prompt, seed=0, stop=[], temperature=0.8)[0]
+            pred_ok = True
+        except:
+            pass
     return answer
 
 
@@ -73,33 +73,30 @@ def do_augmentation(data_path, datai_path):
             f.write("%s\n" % item)
 
 
-DATASET_TYPE = ["train", "dev", "test"]        
+DATASET_TYPE = ["train", "dev", "test"]
 
 for task in TASKS:
-    for dataset_type in DATASET_TYPE:
-        for dataset in DATASETS:
-            data_path = f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
-            datai_path = f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_im.txt"
+    for dataset in DATASETS:
+        for dataset_type in DATASET_TYPE:
+            data_path = (
+                f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
+            )
+            datai_path = (
+                f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_im.txt"
+            )
             # create datai directories if not exist
             datai_dir = os.path.dirname(datai_path)
             if not os.path.exists(datai_dir):
                 os.makedirs(datai_dir)
-                
-            do_augmentation(data_path, datai_path)
-            
 
-for task in TASKS:
-    for n_shot in N_SHOTS:
-        for dataset in DATASETS:
+            do_augmentation(data_path, datai_path)
+
+        for n_shot in N_SHOTS:
             data_path = f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/examples.txt"
             datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/examples_im.txt"
             # create datai directories if not exist
             datai_dir = os.path.dirname(datai_path)
             if not os.path.exists(datai_dir):
                 os.makedirs(datai_dir)
-                
+
             do_augmentation(data_path, datai_path)
-            
-    
-
-
