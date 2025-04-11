@@ -1,6 +1,4 @@
 import os
-import pprint
-from tqdm import tqdm
 from llm import LLM
 
 model = LLM()
