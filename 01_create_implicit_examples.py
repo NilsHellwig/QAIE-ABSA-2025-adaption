@@ -75,9 +75,15 @@ def do_augmentation(data_path, datai_path):
 
 DATASET_TYPE = ["train", "dev", "test"]
 
+import time
+import subprocess
+
 for task in TASKS:
     for dataset in DATASETS:
         for dataset_type in DATASET_TYPE:
+            time.sleep(3)
+            subprocess.run(["ollama", "stop", "gemma3:27b"])
+
             data_path = (
                 f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
             )
@@ -89,9 +95,16 @@ for task in TASKS:
             if not os.path.exists(datai_dir):
                 os.makedirs(datai_dir)
 
+            # do only run if datai_path does not exist
+            if os.path.exists(datai_path):
+                print(f"{datai_path} already exists, skipping...")
+                continue
             do_augmentation(data_path, datai_path)
 
         for n_shot in N_SHOTS:
+            time.sleep(3)
+            subprocess.run(["ollama", "stop", "gemma3:27b"])
+            
             data_path = f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/examples.txt"
             datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/examples_im.txt"
             # create datai directories if not exist
@@ -99,4 +112,8 @@ for task in TASKS:
             if not os.path.exists(datai_dir):
                 os.makedirs(datai_dir)
 
+            # do only run if datai_path does not exist
+            if os.path.exists(datai_path):
+                print(f"{datai_path} already exists, skipping...")
+                continue
             do_augmentation(data_path, datai_path)
