@@ -91,9 +91,10 @@ for task in TASKS:
 
             do_augmentation(data_path, datai_path)
 
+        # create reasoning for the augmented examples based on fs
         for n_shot in N_SHOTS:
-            data_path = f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/examples.txt"
-            datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/examples_im.txt"
+            data_path = f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/aug.txt"
+            datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/aug_im.txt"
             # create datai directories if not exist
             datai_dir = os.path.dirname(datai_path)
             if not os.path.exists(datai_dir):

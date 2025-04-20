@@ -119,7 +119,7 @@ def get_para_tasd_targets(reviews, sents, labels, im_inf):
     for i, label in enumerate(labels):
         all_tri_sentences = []
         for quad in label:
-            at, ac, sp, ot = quad
+            at, ac, sp = quad
             ac = ' '.join(ac.lower().split('#'))
             man_ot = sentword2opinion[sp]   # 'positive' -> 'great'
             if at == 'none' or at == 'NULL':
@@ -206,7 +206,7 @@ def get_para_asqp_targets(reviews, sents, labels, im_inf):
     return inputs,targets
 
 
-def f_get_transformed_io(data_path, data_im_path):
+def f_get_transformed_io(data_path, data_im_path, absa_task):
     sents, reviews, labels = read_line_examples_from_file(data_path, silence=True)
     inputs = []
     targets = []
@@ -217,28 +217,32 @@ def f_get_transformed_io(data_path, data_im_path):
     # reviews, sents, labels = zip(*combined)  
     
     im_inf = read_line(data_im_path, silence=True) 
+    
+    if absa_task == "tasd":
+      inputs3,targets3 = get_para_tasd_targets(reviews, sents, labels, im_inf)
+      inputs.extend(inputs3)
+      targets.extend(targets3)
 
-    # inputs1,targets1 = get_para_at_targets(reviews, sents, labels)
-    inputs1,targets1 = get_para_at_targets(reviews, sents, labels, im_inf)
-    inputs.extend(inputs1)
-    targets.extend(targets1)
+    else:
+      # inputs1,targets1 = get_para_at_targets(reviews, sents, labels)
+      inputs1,targets1 = get_para_at_targets(reviews, sents, labels, im_inf)
+      inputs.extend(inputs1)
+      targets.extend(targets1)
 
-    inputs2,targets2 = get_para_aesc_targets(reviews, sents, labels, im_inf)
-    inputs.extend(inputs2)
-    targets.extend(targets2)
+      inputs2,targets2 = get_para_aesc_targets(reviews, sents, labels, im_inf)
+      inputs.extend(inputs2)
+      targets.extend(targets2)
 
-    inputs3,targets3 = get_para_tasd_targets(reviews, sents, labels, im_inf)
-    inputs.extend(inputs3)
-    targets.extend(targets3)
 
-    inputs4,targets4 = get_para_aste_targets(reviews, sents, labels, im_inf)
-    inputs.extend(inputs4)
-    targets.extend(targets4)
 
-    inputs5,targets5 = get_para_asqp_targets(reviews, sents, labels, im_inf)
-    # targets5 = get_para_asqp_targets(reviews, sents, labels)
-    inputs.extend(inputs5)
-    targets.extend(targets5)
+      inputs4,targets4 = get_para_aste_targets(reviews, sents, labels, im_inf)
+      inputs.extend(inputs4)
+      targets.extend(targets4)
+
+      inputs5,targets5 = get_para_asqp_targets(reviews, sents, labels, im_inf)
+      # targets5 = get_para_asqp_targets(reviews, sents, labels)
+      inputs.extend(inputs5)
+      targets.extend(targets5)
 
     # inputs = inputs*3
     # targets = targets*3
@@ -317,7 +321,7 @@ class ABSADataset(Dataset):
 
         
         if self.data_type == 'train' or self.data_type == 'dev':
-            inputs, targets = f_get_transformed_io(self.data_path, self.data_im_path)
+            inputs, targets = f_get_transformed_io(self.data_path, self.data_im_path, self.absa_task)
         else:
             inputs, targets = get_transformed_io(self.absa_task, self.data_path, self.data_im_path) 
 

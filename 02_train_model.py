@@ -60,8 +60,9 @@ def init_args():
         os.mkdir('./outputs')
 
     output_dir = f"outputs/{args.dataset}/{args.data_cou}"
+    # create the output dir tree if not exist
     if not os.path.exists(output_dir):
-        os.mkdir(output_dir)
+        os.makedirs(output_dir)
     args.output_dir = output_dir
 
     return args
