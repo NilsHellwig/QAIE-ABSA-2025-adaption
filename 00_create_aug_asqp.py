@@ -128,13 +128,7 @@ def find_label(sentence, review):
     return answer
 
 
-def run_augmentation(dataset, n_shot, task="asqp"):
-    data_path = (
-        f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/examples.txt"
-    )
-    data_aug_path = (
-        f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/aug.txt"
-    )
+def run_augmentation(dataset, data_path, data_aug_path, task="asqp"):
 
     sents, reviews, labels = read_line_examples_from_file(data_path, silence=True)
 
@@ -385,8 +379,31 @@ DATASETS = ["rest15", "rest16", "flightabsa", "hotels", "coursera"]
 for task in TASKS:
     for dataset in DATASETS:
         for n_shot in N_SHOTS:
+            data_path = (f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/examples.txt")
+            data_aug_path = (f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/aug.txt")
             run_augmentation(
                 dataset=dataset,
-                n_shot=n_shot,
+                data_path=data_path,
+                data_aug_path=data_aug_path,
                 task=task,
+            )
+            
+DATASET_TYPE = ["dev", "test"]
+
+
+for task in TASKS:
+    for dataset in DATASETS:
+        for dataset_type in DATASET_TYPE:
+
+            data_path = (
+                f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
+            )
+            datai_path = (
+                f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_im.txt"
+            )
+            run_augmentation(
+                dataset=dataset,
+                data_path=data_path,
+                data_aug_path=datai_path,
+                task=task
             )
