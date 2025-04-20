@@ -75,9 +75,11 @@ def do_augmentation(data_path, datai_path):
 
 DATASET_TYPE = ["train", "dev", "test"]
 
+
 for task in TASKS:
     for dataset in DATASETS:
         for dataset_type in DATASET_TYPE:
+
             data_path = (
                 f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
             )
@@ -89,6 +91,10 @@ for task in TASKS:
             if not os.path.exists(datai_dir):
                 os.makedirs(datai_dir)
 
+            # do only run if datai_path does not exist
+            if os.path.exists(datai_path):
+                print(f"{datai_path} already exists, skipping...")
+                continue
             do_augmentation(data_path, datai_path)
 
         # create reasoning for the augmented examples based on fs
@@ -100,4 +106,8 @@ for task in TASKS:
             if not os.path.exists(datai_dir):
                 os.makedirs(datai_dir)
 
+            # do only run if datai_path does not exist
+            if os.path.exists(datai_path):
+                print(f"{datai_path} already exists, skipping...")
+                continue
             do_augmentation(data_path, datai_path)
