@@ -246,7 +246,7 @@ for task in TASKS:
                 f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
             )
             datai_path = (
-                f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_im.txt"
+                f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_aug.txt"
             )
             run_augmentation(
                 dataset=dataset,
