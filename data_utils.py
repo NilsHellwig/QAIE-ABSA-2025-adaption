@@ -285,8 +285,8 @@ class ABSADataset(Dataset):
 
 
         if data_type == 'train':
-            self.data_path = f'./01_augmentations/fs_examples/{absa_task}/{data_dir}/fs_{data_count}/examples_aug.txt'   
-            self.data_im_path = f'./01_augmentations/fs_examples/{absa_task}/{data_dir}/fs_{data_count}/examples_im.txt'   
+            self.data_path = f'./01_augmentations/fs_examples/{absa_task}/{data_dir}/fs_{data_count}/aug.txt'   
+            self.data_im_path = f'./01_augmentations/fs_examples/{absa_task}/{data_dir}/fs_{data_count}/aug_im.txt'   
         elif data_type == 'dev':
             self.data_path = f'../zero-shot-absa-quad/datasets/{absa_task}/{data_dir}/{data_type}.txt'
             self.data_im_path = f'./02_dataset_augmentations/{absa_task}/{data_dir}/{data_type}_im.txt'   

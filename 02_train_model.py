@@ -351,7 +351,7 @@ if args.do_inference:
     model = T5FineTuner(args, tfm_model, tokenizer)
 
     #ASQP
-    sents, reviews, labels = read_line_examples_from_file(f'data/{args.dataset}/test.txt', silence=True)
+    sents, reviews, labels = read_line_examples_from_file(f"../zero-shot-absa-quad/datasets/{args.task}/{args.dataset}/test.txt", silence=True)
     #ACOS
     # sents, reviews, labels = read_line_examples_from_file(f'data-acos/{args.dataset}/test.txt', silence=True)
 

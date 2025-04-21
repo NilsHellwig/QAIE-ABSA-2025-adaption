@@ -2,7 +2,7 @@ import subprocess
 
 command = [
     "python", "02_train_model.py",
-    "--task", "tasd",
+    "--task", "asqp",
     "--dataset", "rest16",
     "--model_name_or_path", "google-t5/t5-base",
     "--n_gpu", "0",

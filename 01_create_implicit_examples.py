@@ -111,3 +111,17 @@ for task in TASKS:
                 print(f"{datai_path} already exists, skipping...")
                 continue
             do_augmentation(data_path, datai_path)
+
+        for n_shot in N_SHOTS:
+            data_path = f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/examples.txt"
+            datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/fs_im.txt"
+            # create datai directories if not exist
+            datai_dir = os.path.dirname(datai_path)
+            if not os.path.exists(datai_dir):
+                os.makedirs(datai_dir)
+
+            # do only run if datai_path does not exist
+            if os.path.exists(datai_path):
+                print(f"{datai_path} already exists, skipping...")
+                continue
+            do_augmentation(data_path, datai_path)
