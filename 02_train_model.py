@@ -1,5 +1,5 @@
 import argparse
-import os
+import os, json
 import logging
 import time
 import pickle
@@ -52,18 +52,19 @@ def init_args():
     parser.add_argument("--weight_decay", default=0.0, type=float)
     parser.add_argument("--adam_epsilon", default=1e-8, type=float)
     parser.add_argument("--warmup_steps", default=0.0, type=float)
+    parser.add_argument("--log_file_path", default='03_results/log.json', type=str)
 
     args = parser.parse_args()
 
-    # set up output dir which looks like './outputs/rest15/'
-    if not os.path.exists('./outputs'):
-        os.mkdir('./outputs')
+    # # set up output dir which looks like './outputs/rest15/'
+    # if not os.path.exists('./outputs'):
+    #     os.mkdir('./outputs')
 
-    output_dir = f"outputs/{args.dataset}/{args.data_cou}"
-    # create the output dir tree if not exist
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-    args.output_dir = output_dir
+    # output_dir = f"outputs/{args.dataset}/{args.data_cou}"
+    # # create the output dir tree if not exist
+    # if not os.path.exists(output_dir):
+    #     os.makedirs(output_dir)
+    # args.output_dir = output_dir
 
     return args
 
@@ -165,11 +166,13 @@ class T5FineTuner(pl.LightningModule):
         train_dataset = get_dataset(tokenizer=self.tokenizer, type_path="train", args=self.hparams)
         dataloader = DataLoader(train_dataset, batch_size=self.hparams.train_batch_size,
                                 drop_last=True, shuffle=True, num_workers=4)
+        print("Length train", len(dataloader.dataset))
         t_total = (
             (len(dataloader.dataset) // (self.hparams.train_batch_size * max(1, len(self.hparams.n_gpu))))
             // self.hparams.gradient_accumulation_steps
             * float(self.hparams.num_train_epochs)
         )
+        print("Ttotal: ", t_total)
         scheduler = get_linear_schedule_with_warmup(
             self.opt, num_warmup_steps=self.hparams.warmup_steps, num_training_steps=t_total
         )
@@ -279,12 +282,12 @@ if args.do_train:
     # initialize the T5 model
     tfm_model = T5ForConditionalGeneration.from_pretrained(args.model_name_or_path)
     model = T5FineTuner(args, tfm_model, tokenizer)
-    checkpoint_callback = pl.callbacks.ModelCheckpoint(
-        filepath=args.output_dir, prefix="ckt", monitor='val_loss', mode='min', save_top_k=3
-    )
+    # checkpoint_callback = pl.callbacks.ModelCheckpoint(
+    #     filepath=args.output_dir, prefix="ckt", monitor='val_loss', mode='min', save_top_k=3
+    # )
     # prepare for trainer
     train_params = dict(
-        default_root_dir=args.output_dir,
+        default_root_dir="./outputs",
         accumulate_grad_batches=args.gradient_accumulation_steps,
         gpus=args.n_gpu,
         gradient_clip_val=1.0,
@@ -311,7 +314,7 @@ if args.do_direct_eval:
     # print("Reload the model")
     # model.model.from_pretrained(args.output_dir)
 
-    sents, reviews, _ = read_line_examples_from_file(f'data/{args.dataset}/test.txt', silence=True)
+    sents, reviews, _ = read_line_examples_from_file(f'../zero-shot-absa-quad/datasets/{args.task}/{args.dataset}/test.txt', silence=True)
     # sents, _ = read_line_examples_from_file(f'data/{args.dataset}/test.txt', silence=True)
 
     print()
@@ -323,59 +326,19 @@ if args.do_direct_eval:
     # compute the performance scores
     scores, all_labels, all_preds = evaluate(test_loader, model, reviews, sents)
 
-    # write to file
-    log_file_path = f"results_log/{args.dataset}.txt"
-    local_time = time.asctime(time.localtime(time.time()))
+    print(scores)
 
-    exp_settings = f"Datset={args.dataset}; Train bs={args.train_batch_size}, num_epochs = {args.num_train_epochs}"
-    exp_results = f"F1 = {scores['f1']:.4f}"
-
-    log_str = f'============================================================\n'
-    log_str += f"{local_time}\n{exp_settings}\n{exp_results}\n\n"
-
-    if not os.path.exists('./results_log'):
-        os.mkdir('./results_log')
-
-    with open(log_file_path, "a+") as f:
-        f.write(log_str)
-
-
-if args.do_inference:
-    print("\n****** Conduct inference on trained checkpoint ******")
-
-    # initialize the T5 model from previous checkpoint
-    print(f"Load trained model from {args.output_dir}")
-    print('Note that a pretrained model is required and `do_true` should be False')
-    tokenizer = T5Tokenizer.from_pretrained(args.output_dir)
-    tfm_model = T5ForConditionalGeneration.from_pretrained(args.output_dir)
-    model = T5FineTuner(args, tfm_model, tokenizer)
-
-    #ASQP
-    sents, reviews, labels = read_line_examples_from_file(f"../zero-shot-absa-quad/datasets/{args.task}/{args.dataset}/test.txt", silence=True)
-    #ACOS
-    # sents, reviews, labels = read_line_examples_from_file(f'data-acos/{args.dataset}/test.txt', silence=True)
-
-    print()
-    test_dataset = ABSADataset(tokenizer, data_dir=args.dataset, absa_task = args.task, data_count=args.data_cou,
-                               data_type='test', max_len=args.max_seq_length)
-    test_loader = DataLoader(test_dataset, batch_size=32, num_workers=4)
-    # print(test_loader.device)
-
-    # compute the performance scores
-    scores, all_labels, all_preds = evaluate(test_loader, model, reviews, sents)
-
-    # write to file
-    log_file_path = f"results_log/{args.dataset}.txt"
-    local_time = time.asctime(time.localtime(time.time()))
-
-    exp_settings = f"Datset={args.dataset}; Train bs={args.train_batch_size}, num_epochs = {args.num_train_epochs}"
-    exp_results = f"F1 = {scores['f1']:.4f}"
-
-    log_str = f'============================================================\n'
-    log_str += f"{local_time}\n{exp_settings}\n{exp_results}\n\n"
-
-    if not os.path.exists('./results_log'):
-        os.mkdir('./results_log')
-
-    with open(log_file_path, "a+") as f:
-        f.write(log_str)
+    # store results as json {"scores": scores, "labels": all_labels, "preds": all_preds} in json file (log_file_path)
+    # create the directory if not exist
+    if not os.path.exists('03_results'):
+        os.makedirs('03_results')
+    with open(args.log_file_path, 'w') as f:
+        res = {
+            "scores": scores,
+            "labels": all_labels,
+            "preds": all_preds
+        }
+        # convert to json
+        json.dump(res, f, indent=4)
+        
+        

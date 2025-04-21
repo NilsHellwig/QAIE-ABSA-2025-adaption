@@ -322,6 +322,9 @@ class ABSADataset(Dataset):
         
         if self.data_type == 'train' or self.data_type == 'dev':
             inputs, targets = f_get_transformed_io(self.data_path, self.data_im_path, self.absa_task)
+            if self.data_type == 'dev':
+                inputs = inputs[:64]
+                targets = targets[:64]
         else:
             inputs, targets = get_transformed_io(self.absa_task, self.data_path, self.data_im_path) 
 
