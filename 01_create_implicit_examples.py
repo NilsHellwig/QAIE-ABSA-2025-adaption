@@ -73,7 +73,7 @@ def do_augmentation(data_path, datai_path):
             f.write("%s\n" % item)
 
 
-DATASET_TYPE = ["train", "dev", "test"]
+DATASET_TYPE = ["dev", "test"]
 
 
 for task in TASKS:
@@ -99,7 +99,7 @@ for task in TASKS:
 
         # create reasoning for the augmented examples based on fs
         for n_shot in N_SHOTS:
-            data_path = f"../zero-shot-absa-quad/fs_examples/{task}/{dataset}/fs_{n_shot}/aug.txt"
+            data_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/aug.txt"
             datai_path = f"./01_augmentations/fs_examples/{task}/{dataset}/fs_{n_shot}/aug_im.txt"
             # create datai directories if not exist
             datai_dir = os.path.dirname(datai_path)
