@@ -131,6 +131,15 @@ def find_label(sentence, review):
 def run_augmentation(dataset, data_path, data_aug_path ,task="tasd"):
 
     sents, reviews, labels = read_line_examples_from_file(data_path, silence=True)
+    
+    labels = [
+        [
+            (tup[0] if tup[0] != "NULL" else "none", tup[1], tup[2])
+            for tup in label_group
+        ]
+        for label_group in labels
+    ]
+
 
     text = []
     for i, (review, label) in enumerate(zip(reviews, labels)):
@@ -220,7 +229,7 @@ def run_augmentation(dataset, data_path, data_aug_path ,task="tasd"):
 # run_augmentation
 TASKS = ["tasd"]
 N_SHOTS = [10, 50]
-DATASETS = ["rest15", "rest16", "flightabsa", "hotels", "coursera"]
+DATASETS = ["rest15", "coursera", "hotels", "flightabsa"]
 
 
 for task in TASKS:
@@ -235,22 +244,22 @@ for task in TASKS:
                 task=task
                 )
                 
-DATASET_TYPE = ["dev", "test"]
+# DATASET_TYPE = ["dev", "test"]
 
 
-for task in TASKS:
-    for dataset in DATASETS:
-        for dataset_type in DATASET_TYPE:
+# for task in TASKS:
+#     for dataset in DATASETS:
+#         for dataset_type in DATASET_TYPE:
 
-            data_path = (
-                f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
-            )
-            datai_path = (
-                f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_aug.txt"
-            )
-            run_augmentation(
-                dataset=dataset,
-                data_path=data_path,
-                data_aug_path=datai_path,
-                task=task
-            )
+#             data_path = (
+#                 f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
+#             )
+#             datai_path = (
+#                 f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_aug.txt"
+#             )
+#             run_augmentation(
+#                 dataset=dataset,
+#                 data_path=data_path,
+#                 data_aug_path=datai_path,
+#                 task=task
+#             )
