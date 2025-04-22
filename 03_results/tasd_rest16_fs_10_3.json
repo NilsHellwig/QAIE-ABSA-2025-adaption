@@ -1,0 +1,9233 @@
+{
+    "scores": {
+        "precision": 0.16363636363636364,
+        "recall": 0.1079136690647482,
+        "f1": 0.13005780346820808
+    },
+    "labels": [
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "portions",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "green tea creme brulee",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "owner",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "onion rings",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "honey walnut prawns",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "honey walnut prawns",
+                "food quality",
+                "negative"
+            ],
+            [
+                "lemon chicken",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "ambience",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "waiter",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "manager",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "italian food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mioposto",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "italian restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine list",
+                "drinks style_options",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ],
+            [
+                "ambiance",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine list",
+                "drinks style_options",
+                "positive"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food prices",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "kafta plate",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ],
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "food",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "tuna",
+                "food quality",
+                "negative"
+            ],
+            [
+                "rice",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "fish",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "fish",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "rolls",
+                "food quality",
+                "negative"
+            ],
+            [
+                "fish",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "staff members",
+                "service general",
+                "negative"
+            ],
+            [
+                "waiter",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ],
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "miso soup",
+                "food quality",
+                "positive"
+            ],
+            [
+                "rolls",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sashimi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "apps",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "portions",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "place",
+                "restaurant prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "space",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ],
+            [
+                "waiters",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bus boy",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "salsa",
+                "food quality",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "margaritas",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "waitress",
+                "service general",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "pizza place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "calamari",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "deck",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "music",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bar",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bartender",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ],
+            [
+                "draft and bottle selection",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bartenders",
+                "service general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "owners",
+                "service general",
+                "positive"
+            ],
+            [
+                "beer selection",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "upstairs",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "balconey",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "fish",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sake ikura roll",
+                "food quality",
+                "positive"
+            ],
+            [
+                "horse mackerel",
+                "food quality",
+                "positive"
+            ],
+            [
+                "jellyfish",
+                "food quality",
+                "positive"
+            ],
+            [
+                "blue fin tuna",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pieces",
+                "food style_options",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "decor",
+                "ambience general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "crowd",
+                "restaurant miscellaneous",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ],
+            [
+                "food",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "drinks",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ],
+            [
+                "drinks",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "ambience",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "goat cheese gnocchi",
+                "food quality",
+                "positive"
+            ],
+            [
+                "pumpkin ravioli",
+                "food quality",
+                "positive"
+            ],
+            [
+                "goat cheese gnocchi",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "filet mignon on top of spinach and mashed potatoes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "ambiance",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "music",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "artwork",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "indian food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chicken tikka masala",
+                "food quality",
+                "positive"
+            ],
+            [
+                "chicken curry",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "location",
+                "location general",
+                "neutral"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "korma",
+                "food quality",
+                "positive"
+            ],
+            [
+                "paneer",
+                "food quality",
+                "positive"
+            ],
+            [
+                "saag",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "delivery",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "saag paneer",
+                "food quality",
+                "positive"
+            ],
+            [
+                "samosas",
+                "food quality",
+                "positive"
+            ],
+            [
+                "naan",
+                "food quality",
+                "positive"
+            ],
+            [
+                "lamb korma",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "bhartha",
+                "food quality",
+                "positive"
+            ],
+            [
+                "naan",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chickpeas",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "colorado",
+                "food quality",
+                "positive"
+            ],
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ],
+            [
+                "fajita salad",
+                "food quality",
+                "positive"
+            ],
+            [
+                "fajitas",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "environment",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "manager",
+                "service general",
+                "positive"
+            ],
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ],
+            [
+                "decor",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "customer service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lunch spot",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mexican spot",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "burritos",
+                "food quality",
+                "positive"
+            ],
+            [
+                "enchiladas",
+                "food quality",
+                "positive"
+            ],
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ],
+            [
+                "taco salads",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "margaritas",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lebanese food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "open sesame",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chicken shawarma",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "decor",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "open sesame",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hummus",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lunch",
+                "food quality",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dinners",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "open sesame combo plate",
+                "food prices",
+                "positive"
+            ],
+            [
+                "open sesame combo plate",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "side of potatoes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hummus",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "hummus",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "seating",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "beer",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "beer",
+                "drinks quality",
+                "negative"
+            ],
+            [
+                "meal",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "band",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "grilled asparagus",
+                "food quality",
+                "positive"
+            ],
+            [
+                "shoe string onions",
+                "food quality",
+                "positive"
+            ],
+            [
+                "fried brie with fruit",
+                "food quality",
+                "positive"
+            ],
+            [
+                "goat cheese pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "beer",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "waiter",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "band",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "winelist",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine list",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sommelier",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "negative"
+            ],
+            [
+                "potions",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "food",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "owners",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "establishment",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "scooner or later",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "scooner or later",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "coffee",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "place",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza menu",
+                "food quality",
+                "positive"
+            ],
+            [
+                "pizza menu",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "coffe",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "ambience",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "servers behind the counter",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant miscellaneous",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food prices",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "kafta plate",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "waitress",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "people",
+                "service general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "fresh fruit",
+                "food quality",
+                "positive"
+            ],
+            [
+                "potatoes",
+                "food quality",
+                "positive"
+            ],
+            [
+                "eggs",
+                "food quality",
+                "positive"
+            ],
+            [
+                "yogurt",
+                "food quality",
+                "positive"
+            ],
+            [
+                "pancakes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "fish on the omikase platter",
+                "food quality",
+                "positive"
+            ],
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "waitstaff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "waiter",
+                "service general",
+                "positive"
+            ],
+            [
+                "sake",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "nigiri",
+                "food quality",
+                "positive"
+            ],
+            [
+                "rolls",
+                "food quality",
+                "positive"
+            ],
+            [
+                "sashmi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "oyster roll",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chuwam mushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ],
+            [
+                "sushi",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "sushi place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "house special roll",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "spot",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "brunch",
+                "food quality",
+                "positive"
+            ],
+            [
+                "egg white omelet",
+                "food quality",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "spot",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "spot",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "desserts",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine list",
+                "drinks style_options",
+                "positive"
+            ],
+            [
+                "ambiance",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mexican place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "enchiladas",
+                "food quality",
+                "positive"
+            ],
+            [
+                "chicken soup",
+                "food quality",
+                "positive"
+            ],
+            [
+                "specials",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "cooks",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wait staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "ambience general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ],
+            [
+                "space",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "employees",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "caesar salad",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "margaritas",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "margaritas",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "portions",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "art on the walls",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "indain food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lunch menu",
+                "food prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "ingrediants",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "fish",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "selection",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "waiters",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ],
+            [
+                "brunch food",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ],
+            [
+                "regular menu",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "salmon",
+                "food quality",
+                "positive"
+            ],
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ],
+            [
+                "mackeral",
+                "food quality",
+                "positive"
+            ],
+            [
+                "cod",
+                "food quality",
+                "positive"
+            ],
+            [
+                "fish",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "soho location",
+                "location general",
+                "positive"
+            ],
+            [
+                "yellow tail",
+                "food quality",
+                "positive"
+            ],
+            [
+                "tuna",
+                "food quality",
+                "positive"
+            ],
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                "sake",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "sea urchin",
+                "food quality",
+                "positive"
+            ],
+            [
+                "jellyfish",
+                "food quality",
+                "positive"
+            ],
+            [
+                "fluke",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "blue ribbon sushi",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "tuna",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "blue ribbon",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ],
+            [
+                "setting",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "sushi",
+                "food prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rolls",
+                "food quality",
+                "positive"
+            ],
+            [
+                "smoked yellowtail",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "service general",
+                "negative"
+            ],
+            [
+                "pizza",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "food",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "pizza",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "pizza",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "mioposto",
+                "restaurant general",
+                "negative"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "waiting staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wait",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "seafood",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "seabass on lobster risotto",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "caesar salad",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bottle of wine",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dessert",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "waitress",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "owner",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "bar keep",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "crab cakes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "cakes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "seasonal fish",
+                "food quality",
+                "positive"
+            ],
+            [
+                "waterfront setting",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "seafood",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ],
+            [
+                "mushroom pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "caeser salad",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "servers",
+                "service general",
+                "negative"
+            ],
+            [
+                "young woman",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "management",
+                "service general",
+                "negative"
+            ],
+            [
+                "waitstaff",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bloody mary",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "crab eggs benedict",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "menu items",
+                "food quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chinese food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "ambiance",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "batter",
+                "food quality",
+                "positive"
+            ],
+            [
+                "prawns",
+                "food quality",
+                "positive"
+            ],
+            [
+                "walnuts",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "honey walnyt prawns",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "brocollis",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "prawns",
+                "food quality",
+                "positive"
+            ],
+            [
+                "brocolli",
+                "food quality",
+                "positive"
+            ],
+            [
+                "scallops",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mango ginger creme brulee",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "portions",
+                "food style_options",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ],
+            [
+                "sushi",
+                "food prices",
+                "negative"
+            ],
+            [
+                "sushi",
+                "food style_options",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "NULL",
+                "food style_options",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "service",
+                "service general",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ],
+            [
+                "restaurant",
+                "ambience general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "glass walls",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "feel",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "eel with avodcao",
+                "food quality",
+                "positive"
+            ],
+            [
+                "spanish mackeral special appetizer",
+                "food quality",
+                "positive"
+            ],
+            [
+                "box sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "omikase",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "omikase",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "specialty rolls",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "selection of sakes",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "green tea creme brulee",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food prices",
+                "neutral"
+            ],
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "service general",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ],
+            [
+                "location along the marina in long beach",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant staff",
+                "service general",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "waitress",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "manager",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "manager",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "fish",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "fish",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sake selection",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dungeness crabs",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "seafood dinners",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food prices",
+                "neutral"
+            ],
+            [
+                "NULL",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rays",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dungeness crabs",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "black cod in sake kasu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dessert of a port and chocolate tasting",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "b fast burritos",
+                "food quality",
+                "positive"
+            ],
+            [
+                "coffee",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "drinks",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "menu",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "corn beef hash",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "standby",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "spot",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "music",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "bar tenders",
+                "drinks style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "cheese fries",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant prices",
+                "neutral"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "price fixed pre-show dinner",
+                "food prices",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "wood decor",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "music",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "subwoofer to the sound system",
+                "ambience general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "shellfish and shrimp appetizer",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "seafood",
+                "food quality",
+                "neutral"
+            ],
+            [
+                "seafood",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "asparagus",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "9 oz steak",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "steak",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "red wine reduction",
+                "food quality",
+                "neutral"
+            ],
+            [
+                "peppercorn sauce",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "steak",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dinner",
+                "food quality",
+                "positive"
+            ],
+            [
+                "desert",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "neutral"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "servers",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "sake",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sake",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "server",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lobster 3 ways",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "feel",
+                "ambience general",
+                "negative"
+            ],
+            [
+                "waiter",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "bathroom stall",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ],
+            [
+                "food",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "food",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "pizza joint",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "salads",
+                "food quality",
+                "positive"
+            ],
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "cooks",
+                "service general",
+                "positive"
+            ],
+            [
+                "wait staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "feeling",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "decor",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mioposto caf\u00e9",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza\u2019s",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza\u2019s",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "menu",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza\u2019s",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza ensalata",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pizza\u2019s",
+                "food style_options",
+                "neutral"
+            ],
+            [
+                "crust",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "negative"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pancakes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "eats",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "fish",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "chef special dinner",
+                "food quality",
+                "negative"
+            ],
+            [
+                "chef special dinner",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "exotic fish",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "plate",
+                "food prices",
+                "negative"
+            ],
+            [
+                "exotic fish",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "honwy walnut prawns",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "coffee",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food prices",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "decor",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "music",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "vibe",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "people",
+                "restaurant miscellaneous",
+                "positive"
+            ],
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "server",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "open sesame",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant miscellaneous",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "waiters",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi dishes",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ],
+            [
+                "portions",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pepperoni",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "balcony",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "portions",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "menu selection",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "creme brulee",
+                "food quality",
+                "positive"
+            ],
+            [
+                "appetizer",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "indoor ambience",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "balcony",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ],
+            [
+                "service",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "server",
+                "service general",
+                "negative"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "table",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "waiters",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "filet mignon",
+                "food quality",
+                "positive"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "portions",
+                "food style_options",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "music",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restroom",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chips and salsa",
+                "food quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "decor",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "atmosphere",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "catering",
+                "food quality",
+                "positive"
+            ],
+            [
+                "raouls chicken vegetable soup",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "drinks",
+                "drinks quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "ambience general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "snooze",
+                "ambience general",
+                "positive"
+            ],
+            [
+                "menu",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "snooze",
+                "restaurant prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "orange juice",
+                "drinks prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "juice",
+                "drinks style_options",
+                "negative"
+            ],
+            [
+                "juice",
+                "drinks prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pancakes",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "pancakes",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "pancakes",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "pancakes",
+                "food style_options",
+                "negative"
+            ],
+            [
+                "pancakes",
+                "food prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "negative"
+            ],
+            [
+                "eggs",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "dish",
+                "food quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "manager",
+                "service general",
+                "negative"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "iced tea",
+                "drinks prices",
+                "negative"
+            ],
+            [
+                "breakfast burrito",
+                "food prices",
+                "negative"
+            ],
+            [
+                "orange juice",
+                "drinks prices",
+                "negative"
+            ],
+            [
+                "pancakes",
+                "food prices",
+                "negative"
+            ],
+            [
+                "pancakes",
+                "food style_options",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "view",
+                "location general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "sound views",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "views",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "brooke",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "shilshole sampler",
+                "food quality",
+                "positive"
+            ],
+            [
+                "manila clams",
+                "food quality",
+                "positive"
+            ],
+            [
+                "white gulf prawns",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "butter sauce",
+                "food quality",
+                "positive"
+            ],
+            [
+                "shilshole sampler",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "soy dressing",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "seared alaskan sea scallops",
+                "food quality",
+                "positive"
+            ],
+            [
+                "seared alaskan sea scallops",
+                "food style_options",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "scallops",
+                "food style_options",
+                "positive"
+            ],
+            [
+                "scallops",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "creamed washington russet potatoes",
+                "food quality",
+                "positive"
+            ],
+            [
+                "grilled alaskan king salmon",
+                "food quality",
+                "positive"
+            ],
+            [
+                "green beans",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "plate",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "server",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "negative"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "restaurant miscellaneous",
+                "negative"
+            ],
+            [
+                "food",
+                "food quality",
+                "positive"
+            ],
+            [
+                "server",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "view",
+                "location general",
+                "positive"
+            ]
+        ]
+    ],
+    "preds": [
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "green tea creme brulee",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "place general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "ambience",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "manager",
+                "manager general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "italian restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine list",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "wine list",
+                "drinks style_options",
+                "positive"
+            ],
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "place general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "kafta plate",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rice",
+                "rice quality",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "quality and variety of the fish",
+                "fisheries general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "waiter",
+                "waiter",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sashimi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "space",
+                "space general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sit down mexican",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "table",
+                "table",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "area",
+                "area general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "great pizza place",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "only problem",
+                "pizza quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "everything you want and more",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "calamari",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "bar",
+                "bar general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "draft and bottle selection",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "upstairs",
+                "general general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "new home",
+                "home general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pumpkin ravioli",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "ambiance",
+                "general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "item on their menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "dining",
+                "dining style",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "delivery",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "naan",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "the fajita salad",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "private party",
+                "party quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "atmosphere general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lunch spot",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "financial district mexican spot",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "seating",
+                "service general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "open sesame",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chicken shawarma",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "decor",
+                "decor general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "side of potatoes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "drizzle of fragrant olive oil",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "beer",
+                "beer general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "band",
+                "band's general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "dining at a completely different restaurant",
+                "dining general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "waiter",
+                "service general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sommelier",
+                "general general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine experience",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "coffe",
+                "coffee quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "place",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "the kafta plate",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "fish on the omikase platter",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "waitstaff",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "freshness",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "oyster roll",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "house special roll",
+                "roll type",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "cozy spot for 2",
+                "general general general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "compliment",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "price",
+                "price general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "caesar salad",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "art on the walls",
+                "art style general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lunch menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "fish",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "selection",
+                "sushi quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "place",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sushi fan",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place on the east coast that has it all",
+                "place",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "what",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "late night dining",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "customer service",
+                "food quality",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "service",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "frozen pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "drink",
+                "drink quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "dining experience",
+                "dining style",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "seabass on lobster risotto",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "caesar salad",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bottle of wine",
+                "wine general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "order",
+                "order status",
+                "nope"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "discount",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "empty glass for over 20 minutes",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "place general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "seasonal fish and seafood",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "great pizza",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food network",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "crab eggs benedict",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "scallops and prawns",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "mango ginger creme brulee",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food wise",
+                "food quality",
+                "neutral"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "parking",
+                "parking general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "6pm",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "freshness",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "customer service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "fish",
+                "fish quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sake selection",
+                "drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "family platter",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "place",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "gem",
+                "gem general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "music",
+                "music quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "unpretentious local fun",
+                "fun general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "price fixed pre-show dinner",
+                "dining style",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "music playing",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "shellfish and shrimp appetizer",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "taste and presentation",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "asparagus",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "steak",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "desert",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dinner",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sake",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "waited 35 minutes for a table for 8 which",
+                "table quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "waiter",
+                "waiter general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "bathroom stall",
+                "general general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "pizza joint",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "wait staff",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "eating at mioposto caf\u00e9",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "delicious gourmet pizza\u2019s",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "menu",
+                "menu general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "food",
+                "food quality",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "atmosphere general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "nothing on the menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "place",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "place general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "general general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dish",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "decor",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "place general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "server",
+                "server general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "sushi",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "pizza",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "portions",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "menu selection",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "appetizer",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "table",
+                "table style",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "check-up on us more frequently",
+                "general general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "late night dinning with exeptional food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "table",
+                "table general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "food",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "check",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bathroom attendant",
+                "restroom general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "atmosphere",
+                "atmosphere",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "catering",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "presentation of snooze",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "menu",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "meal",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "dish",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "server brooke",
+                "server general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "seared alaskan sea scallops",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "grilled alaskan king salmon",
+                "food quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "view",
+                "food quality",
+                "positive"
+            ]
+        ]
+    ]
+}

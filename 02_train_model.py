@@ -254,7 +254,7 @@ def evaluate(data_loader, model, reviews, sents):
 
 # initialization
 args = init_args()
-print("\n", "="*30, f"NEW EXP: ASQP on {args.dataset}", "="*30, "\n")
+print("\n", "="*30, f"NEW EXP: {args.task} on {args.dataset}", "="*30, "\n")
 
 # sanity check
 # show one sample to check the code and the expected output

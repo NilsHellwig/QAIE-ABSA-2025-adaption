@@ -1,0 +1,6168 @@
+{
+    "scores": {
+        "precision": 0.3881278538812785,
+        "recall": 0.35714285714285715,
+        "f1": 0.37199124726477023
+    },
+    "labels": [
+        [
+            [
+                "NULL",
+                "course value",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professors emily and carlos",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staffs",
+                "faculty response",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content and the exercises",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course workload",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "short lectures",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ],
+            [
+                "amount of material",
+                "material quantity",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "courses",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "final assignment",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ],
+            [
+                "final exam",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "project",
+                "assignments workload",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mooc",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "supplemental document",
+                "material quantity",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course into multiple separate",
+                "course quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "quiz questions",
+                "faculty response",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "week 3 assignment",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "ng",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course value",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course value",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "material comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course comprehensiveness",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "video",
+                "presentation quantity",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "instructors",
+                "faculty response",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course workload",
+                "negative"
+            ],
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "material comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "courses",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lessons",
+                "course general",
+                "positive"
+            ],
+            [
+                "lessons",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lecturer",
+                "faculty comprehensiveness",
+                "positive"
+            ],
+            [
+                "videos",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "negative"
+            ],
+            [
+                "material",
+                "material quantity",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "george siedel",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "video lectures",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments workload",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "course material",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teacher",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "teacher",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ],
+            [
+                "justin - nicholas toytama",
+                "faculty general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "positive"
+            ],
+            [
+                "NULL",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignment questions",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty response",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "positive"
+            ],
+            [
+                "video lectures",
+                "presentation quality",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "programming exercises",
+                "assignments relatability",
+                "positive"
+            ],
+            [
+                "videos",
+                "presentation relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation quality",
+                "negative"
+            ],
+            [
+                "explanations",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "assignments",
+                "assignments workload",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course professor",
+                "faculty relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material comprehensiveness",
+                "negative"
+            ],
+            [
+                "final exam",
+                "assignments workload",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "instructors",
+                "faculty general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "course",
+                "course relatability",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "lab assistants",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material quality",
+                "positive"
+            ],
+            [
+                "quizzes",
+                "assignments comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "yaakov",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "neutral"
+            ],
+            [
+                "NULL",
+                "course quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "grades general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "exercises",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "reading material sources",
+                "material relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "autograder",
+                "grades general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "automated grader",
+                "grades general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "excersizes",
+                "assignments relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "power points",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty response",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "quiz",
+                "assignments workload",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professors emily fox and carlos guestrin",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation quality",
+                "positive"
+            ],
+            [
+                "lectures",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "visual aides",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "tests",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lecture",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lessons",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "quentin and team",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teachers",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ],
+            [
+                "animation",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teachers",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "jonathan biss",
+                "faculty comprehensiveness",
+                "positive"
+            ],
+            [
+                "jonathan biss",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "positive"
+            ],
+            [
+                "he",
+                "faculty response",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ],
+            [
+                "assignments",
+                "assignments relatability",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "content",
+                "presentation quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "faculty comprehensiveness",
+                "positive"
+            ],
+            [
+                "NULL",
+                "faculty response",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lessons",
+                "presentation comprehensiveness",
+                "positive"
+            ],
+            [
+                "lessons",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material quality",
+                "negative"
+            ],
+            [
+                "material",
+                "material quantity",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "material quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "jeff leek",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ],
+            [
+                "assignments",
+                "assignments quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "materials",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "andrew ng",
+                "faculty comprehensiveness",
+                "positive"
+            ],
+            [
+                "andrew ng",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ],
+            [
+                "videos",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course value",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "grading",
+                "grades general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "berklee",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course workload",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lesson",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "positive"
+            ],
+            [
+                "questions",
+                "assignments comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teaching",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "video",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "exercise",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "exercise",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ],
+            [
+                "NULL",
+                "faculty comprehensiveness",
+                "negative"
+            ],
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ],
+            [
+                "examples",
+                "course relatability",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "material comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "he",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teacher",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "grades",
+                "grades general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course value",
+                "negative"
+            ],
+            [
+                "grading of the exams",
+                "grades general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "andrew ng",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "presentation",
+                "presentation quality",
+                "negative"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lecturer",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "material quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course value",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "management",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "courses",
+                "course general",
+                "positive"
+            ],
+            [
+                "courses",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "negative"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "proff",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "presentation quality",
+                "positive"
+            ],
+            [
+                "professor sachs",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "professor hitoshi murayama",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material quantity",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation quality",
+                "positive"
+            ],
+            [
+                "quizzes",
+                "assignments quantity",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assingments",
+                "assignments quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "material quantity",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "mentor",
+                "faculty response",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "grading system",
+                "grades general",
+                "negative"
+            ],
+            [
+                "speech",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "case studies",
+                "course quality",
+                "positive"
+            ],
+            [
+                "case studies",
+                "course relatability",
+                "positive"
+            ],
+            [
+                "guest speakers",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "peer assignments",
+                "assignments relatability",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "content",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments comprehensiveness",
+                "positive"
+            ],
+            [
+                "materials",
+                "material comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "discussions in the videos",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "courses",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ],
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "exercises",
+                "material quality",
+                "positive"
+            ],
+            [
+                "professor andrew ng",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "material quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "material relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course workload",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "iyengar",
+                "faculty general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ],
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course workload",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "assignments quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ],
+            [
+                "professor",
+                "faculty relatability",
+                "positive"
+            ],
+            [
+                "professor",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "homework",
+                "assignments comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "presentation relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course workload",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course value",
+                "negative"
+            ],
+            [
+                "quizzes",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "peer assessments",
+                "grades general",
+                "negative"
+            ],
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "courses",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "record videos",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course relatability",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dr chuck",
+                "faculty general",
+                "positive"
+            ]
+        ]
+    ],
+    "preds": [
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professors emily and carlos",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staffs",
+                "faculty response",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course complexity",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation comprehensiveness",
+                "positive"
+            ],
+            [
+                "lectures",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "project",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mooc",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments comprehensiveness",
+                "negative"
+            ],
+            [
+                "assignment",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty response",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course flesh",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "visiting scholars",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments comprehensiveness",
+                "negative"
+            ],
+            [
+                "assignment",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "difficulty",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "ng",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lesson",
+                "course general",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "quizzes",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "coursera",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "stuff",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "narration",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "field",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "instructors",
+                "faculty response",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "courses",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lessons",
+                "course general",
+                "positive"
+            ],
+            [
+                "lessons",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "george siedel",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "classes",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "program",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teacher",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos of experts",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments comprehensiveness",
+                "negative"
+            ],
+            [
+                "assignment",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "coverage",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "video lectures",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "student debt",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "coursework",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "section",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course professor",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course material",
+                "course comprehensiveness",
+                "negative"
+            ],
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course comprehensiveness",
+                "negative"
+            ],
+            [
+                "class",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "instructors",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "program",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teaching",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "assignment",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "exercises",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "exercises",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "information",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "positive"
+            ],
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ],
+            [
+                "autograder",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ],
+            [
+                "NULL",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "grader",
+                "faculty response",
+                "positive"
+            ],
+            [
+                "automated grader",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course comprehensiveness",
+                "positive"
+            ],
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "excersizes",
+                "assignments comprehensiveness",
+                "positive"
+            ],
+            [
+                "excersizes",
+                "assignments quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "power points",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "interactive",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "quiz",
+                "assignments comprehensiveness",
+                "negative"
+            ],
+            [
+                "quiz",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "instructions",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "guidelines",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "professors",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "course general",
+                "positive"
+            ],
+            [
+                "lectures",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teaching",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty comprehensiveness",
+                "positive"
+            ],
+            [
+                "videos",
+                "presentation comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "tests",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "tests",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "teaching methodology",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lecture",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lessons",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "program",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lesson",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "week 4",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teachers",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "jonathan biss",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "material",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "slides",
+                "presentation comprehensiveness",
+                "negative"
+            ],
+            [
+                "quizzes",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "week",
+                "course workload",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "teaching",
+                "faculty response",
+                "positive"
+            ],
+            [
+                "content",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "she",
+                "faculty response",
+                "positive"
+            ],
+            [
+                "she",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lessons",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "formats and personal adaptations",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "study material",
+                "course comprehensiveness",
+                "negative"
+            ],
+            [
+                "study material",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course comprehensiveness",
+                "positive"
+            ],
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "materials",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course structure",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "andrew ng",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "teacher",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "grading",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "cousera and berklee",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lesson",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments quality",
+                "positive"
+            ],
+            [
+                "questions",
+                "assignments comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "javascript",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "video",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "exercise",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "exercise",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lessons",
+                "course comprehensiveness",
+                "negative"
+            ],
+            [
+                "lessons",
+                "assignments quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "mooc",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "step - by - step examples",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "he",
+                "faculty comprehensiveness",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "forum",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "teacher",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "people",
+                "faculty general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "exams",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "exams",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course outline",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lecturer",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "re - enactments",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "management",
+                "course boring",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation quality",
+                "negative"
+            ],
+            [
+                "lectures",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "proff",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course depth",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "professor hitoshi murayama",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content material",
+                "assignments comprehensiveness",
+                "negative"
+            ],
+            [
+                "link",
+                "presentation comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "quizzes",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assingments",
+                "assignments quality",
+                "positive"
+            ],
+            [
+                "assingments",
+                "assignments comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "student",
+                "faculty general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "teacher",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "case studies",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "platform",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course availability",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "materials",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "videos",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor andrew ng",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "intelectual time",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "history of the middle east",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "haskell",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "week 2",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "content",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "negative"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "modules",
+                "course flexibility",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "assignments",
+                "assignments general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "challenges",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty comprehensiveness",
+                "positive"
+            ],
+            [
+                "professor",
+                "faculty response",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "homework",
+                "assignments quality",
+                "negative"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "practical examples",
+                "presentation general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "professor",
+                "faculty general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lectures",
+                "presentation comprehensiveness",
+                "negative"
+            ],
+            [
+                "course",
+                "course comprehensiveness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "record videos",
+                "presentation quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "class",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "course",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "course general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dr chuck",
+                "faculty general",
+                "positive"
+            ]
+        ]
+    ]
+}

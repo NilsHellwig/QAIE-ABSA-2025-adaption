@@ -4,7 +4,7 @@ import shutil, os
 
 # Parameter-Optionen
 data_cou_values = ["10", "50"]
-tasks = ["asqp"]
+tasks = ["tasd"]
 datasets = ["rest16", "rest15", "flightabsa", "coursera", "hotels"]
 seeds = ["0", "1", "2", "3", "4"]
 

@@ -1,0 +1,6553 @@
+{
+    "scores": {
+        "precision": 0.2857142857142857,
+        "recall": 0.16932907348242812,
+        "f1": 0.21263791374122368
+    },
+    "labels": [
+        [
+            [
+                "lines",
+                "room_amenities cleanliness",
+                "positive"
+            ],
+            [
+                "lines",
+                "room_amenities design_features",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lodge",
+                "location general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ],
+            [
+                "bar",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "bar",
+                "hotel design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "rooms quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "lounge",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "people",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "concierge",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "reception staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hospitality",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "price",
+                "hotel prices",
+                "positive"
+            ],
+            [
+                "winetasting",
+                "food_drinks prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "bathrooms",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "omni",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "toiletries",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "bathrooms",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "moore hotel",
+                "hotel cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "toiletries",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "bathrobes",
+                "room_amenities quality",
+                "positive"
+            ],
+            [
+                "reception",
+                "service general",
+                "positive"
+            ],
+            [
+                "linensthe",
+                "rooms quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "watertown hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "price for room",
+                "rooms prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "the triton",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "rooms comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hilton times square",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "berchielli",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "langham place",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "facilities",
+                "facilities general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "information desk",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "amenities",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "kitchen",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "suite",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "bedroom",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "grand hyatt",
+                "location general",
+                "positive"
+            ],
+            [
+                "grand hyatt",
+                "hotel design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "beds",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bedrooms",
+                "rooms general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel casci",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "the westin",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "room_amenities cleanliness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "drinks in the bar",
+                "food_drinks prices",
+                "negative"
+            ],
+            [
+                "rooms",
+                "rooms prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "elevator",
+                "facilities general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "rooms general",
+                "negative"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "ic",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "the coral princess",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pool",
+                "facilities general",
+                "negative"
+            ],
+            [
+                "towels",
+                "room_amenities quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bar",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks style_options",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bed",
+                "room_amenities comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "chealsea lodge",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "ac",
+                "room_amenities general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "concierge",
+                "service general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "place",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooftop pool",
+                "facilities general",
+                "neutral"
+            ],
+            [
+                "breakfast",
+                "food_drinks prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "washers and dryers",
+                "facilities general",
+                "positive"
+            ],
+            [
+                "lounge",
+                "facilities comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "shuttle",
+                "facilities general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "triple room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "every single employee",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "aalders hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "stay",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breezes",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "alicia",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "south pacific hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room_amenities general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "facilities design_features",
+                "positive"
+            ],
+            [
+                "rooftop bar",
+                "facilities design_features",
+                "positive"
+            ],
+            [
+                "food",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "joyce",
+                "service general",
+                "positive"
+            ],
+            [
+                "jean",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "employees",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel comfort",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "computer",
+                "facilities prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sheraton",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotels",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "free",
+                "facilities prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "benjamin",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "castle inn",
+                "hotel comfort",
+                "positive"
+            ],
+            [
+                "castle inn",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "castle inn",
+                "hotel cleanliness",
+                "positive"
+            ],
+            [
+                "castle inn",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "facilities design_features",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "bar",
+                "facilities general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel cleanliness",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel quality",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lobby",
+                "hotel general",
+                "negative"
+            ],
+            [
+                "staff",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel miscellaneous",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "suite",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "rooms comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "villa capri",
+                "hotel general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "mojitos",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "dinner cruises",
+                "food_drinks prices",
+                "negative"
+            ],
+            [
+                "dinner cruises",
+                "food_drinks quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "everyone",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "negative"
+            ],
+            [
+                "room",
+                "rooms prices",
+                "negative"
+            ],
+            [
+                "room",
+                "rooms general",
+                "negative"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "people",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rydges world square hotel",
+                "hotel design_features",
+                "positive"
+            ],
+            [
+                "rydges world square hotel",
+                "hotel comfort",
+                "positive"
+            ],
+            [
+                "rydges world square hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "four season mexico city",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hospitality",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "white linens",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "white linens",
+                "room_amenities cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bed",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "parking",
+                "facilities prices",
+                "positive"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel cleanliness",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "palomar",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive"
+            ],
+            [
+                "afternoon drinks",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "afternoon drinks",
+                "food_drinks prices",
+                "positive"
+            ],
+            [
+                "concierge",
+                "service general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel accademia",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks style_options",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "decor",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "room",
+                "rooms prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel prices",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "price",
+                "hotel prices",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "bar",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel cleanliness",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel design_features",
+                "positive"
+            ],
+            [
+                "food",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "facilities",
+                "facilities general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pool",
+                "facilities general",
+                "positive"
+            ],
+            [
+                "beach",
+                "facilities general",
+                "positive"
+            ],
+            [
+                "swim up bar",
+                "facilities general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bernini palace",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "rooms",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "housekeeping",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lobby",
+                "hotel design_features",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "personnel",
+                "service general",
+                "positive"
+            ],
+            [
+                "accomodations",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "attendant",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "bathrooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "bedrooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel quality",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "concierge",
+                "service general",
+                "positive"
+            ],
+            [
+                "bar",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "hotel",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "victoria 4",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "facilities prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "way in which the hotel handled this",
+                "service general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "buffet breakfast",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "appointments",
+                "room_amenities general",
+                "neutral"
+            ],
+            [
+                "appointments",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "buffet breakfast",
+                "food_drinks quality",
+                "neutral"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel prices",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel miscellaneous",
+                "negative"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "resort",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "service - staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "shower",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "airport shuttle bus",
+                "facilities general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "starwood",
+                "hotel general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "positive"
+            ],
+            [
+                "NULL",
+                "hotel prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lifts",
+                "facilities general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "beds",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "NULL",
+                "rooms cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "bathroom",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "aparthotel silver",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "aparthotel silver",
+                "hotel quality",
+                "positive"
+            ],
+            [
+                "aparthotel silver",
+                "location general",
+                "positive"
+            ],
+            [
+                "aparthotel silver",
+                "hotel cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfasts",
+                "food_drinks style_options",
+                "positive"
+            ],
+            [
+                "afternoon tea",
+                "food_drinks miscellaneous",
+                "positive"
+            ],
+            [
+                "breakfasts",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks style_options",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotels",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "huge umbrellas",
+                "facilities prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "jacuzzi bathtubs",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "mattress",
+                "room_amenities quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "security",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms quality",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "rooms",
+                "rooms prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfas",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms prices",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "refrigerator",
+                "room_amenities general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel quality",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "marriott in san juan",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel design_features",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel saint marie",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "sunroute plaza",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "amenities",
+                "room_amenities quality",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "security",
+                "hotel miscellaneous",
+                "positive"
+            ],
+            [
+                "service",
+                "service general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "lobby",
+                "hotel comfort",
+                "positive"
+            ],
+            [
+                "rooms",
+                "location general",
+                "positive"
+            ],
+            [
+                "sitting area",
+                "hotel comfort",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "room",
+                "room_amenities general",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "furniture",
+                "rooms design_features",
+                "positive"
+            ],
+            [
+                "bathroom",
+                "rooms cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "elevator",
+                "facilities general",
+                "negative"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "free wifi",
+                "facilities quality",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ],
+            [
+                "value",
+                "hotel prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "front desk",
+                "service general",
+                "positive"
+            ],
+            [
+                "management team",
+                "service general",
+                "positive"
+            ],
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "kapok",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ],
+            [
+                "the borgmann villa",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room service meals",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel prices",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "buffet",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "pool",
+                "facilities general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "food",
+                "food_drinks quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel design_features",
+                "negative"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room_amenities general",
+                "neutral"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "personell",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "negative"
+            ],
+            [
+                "reception staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "pillows",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive"
+            ],
+            [
+                "bed",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive"
+            ]
+        ]
+    ],
+    "preds": [
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "bathroom general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "item general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "helpful concierge",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "breakfast general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "shopping",
+                "shopping general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff hospitality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hospitality",
+                "hospitality general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "the triton",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "experience",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "museum",
+                "museum general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "property",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "cleanliness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "bathroom cleanliness",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "ic",
+                "hotel general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "bathroom cleanliness",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "bar",
+                "bar general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room size",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel comfort",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooftop pool",
+                "rooftop dining",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "lounge",
+                "lounge general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "employee",
+                "employee general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "the alicia",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "stay",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "negative"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "the castle inn",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "property",
+                "property general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "negative"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "suite",
+                "suite general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "room",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff",
+                "negative"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "staff service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "room",
+                "room cleanliness",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "breakfast",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "the club level",
+                "club level",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "breakfast",
+                "breakfast quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "decor",
+                "decor general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room rate",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "breakfast general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "beach",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "breakfast",
+                "breakfast general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "staff",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "positive"
+            ],
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "wine",
+                "wine quality",
+                "nope"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "victoria 4",
+                "game general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hm",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "resort",
+                "resort general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "shower",
+                "shower quality",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "NULL",
+                "food general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "property",
+                "property general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "staff",
+                "staff general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "breakfast quality",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "mattress",
+                "mattress firmness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "security",
+                "security general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ],
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room cleanliness",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "seafood",
+                "seafood",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "staff service",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "quality general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "restaurant general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "product general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "24hr buffet",
+                "buffet general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "reception staff",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive"
+            ]
+        ],
+        [],
+        [
+            [
+                "room",
+                "room comfort",
+                "positive"
+            ]
+        ]
+    ]
+}
