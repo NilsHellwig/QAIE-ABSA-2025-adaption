@@ -3,7 +3,7 @@ from itertools import product
 import shutil, os
 
 # Parameter-Optionen
-data_cou_values = ["50", "10"]
+data_cou_values = ["10", "50"]
 tasks = ["asqp"]
 datasets = ["rest16", "rest15", "flightabsa", "coursera", "hotels"]
 seeds = ["0", "1", "2", "3", "4"]
@@ -27,9 +27,9 @@ for seed, task, dataset, data_cou in product(seeds, tasks, datasets, data_cou_va
         "--model_name_or_path", "google-t5/t5-base",
         "--n_gpu", "0",
         "--do_train",
-        "--train_batch_size", "8",
+        "--train_batch_size", "16",
         "--gradient_accumulation_steps", "1",
-        "--eval_batch_size", "8",
+        "--eval_batch_size", "16",
         "--learning_rate", "3e-4",
         "--num_train_epochs", "20",
         "--data_cou", data_cou,
