@@ -11,7 +11,7 @@ seeds = ["0", "1", "2", "3", "4"]
 
 
 # Alle Kombinationen durchgehen
-for data_cou, task, dataset, seed in product(data_cou_values, tasks, datasets, seeds):
+for seed, task, dataset, data_cou in product(seeds, tasks, datasets, data_cou_values):
   if os.path.exists("outputs"):
     shutil.rmtree("outputs")
   log_file_path = f"03_results/{task}_{dataset}_fs_{data_cou}_{seed}.json"
@@ -29,7 +29,7 @@ for data_cou, task, dataset, seed in product(data_cou_values, tasks, datasets, s
         "--do_train",
         "--train_batch_size", "8",
         "--gradient_accumulation_steps", "1",
-        "--eval_batch_size", "16",
+        "--eval_batch_size", "8",
         "--learning_rate", "3e-4",
         "--num_train_epochs", "20",
         "--data_cou", data_cou,

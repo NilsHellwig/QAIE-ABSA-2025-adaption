@@ -84,6 +84,8 @@ def get_para_at_targets(reviews, sents, labels, im_inf):
         temp = "Given the text: " + reviews[i] + ", what are the aspect terms in it ?" 
         inputs.append(temp.split())
         targets.append(' [SSEP] '.join(all_at_sentences))
+    
+    print("targets 0:", targets[0])
  
     return inputs,targets
 
@@ -212,9 +214,9 @@ def f_get_transformed_io(data_path, data_im_path, absa_task):
     targets = []
     # inputs = [s.copy() for s in sents]
 
-    # combined = list(zip(reviews, sents, labels))  
-    # random.shuffle(combined)           
-    # reviews, sents, labels = zip(*combined)  
+    combined = list(zip(reviews, sents, labels))  
+    random.shuffle(combined)           
+    reviews, sents, labels = zip(*combined)  
     
     im_inf = read_line(data_im_path, silence=True) 
     

@@ -134,10 +134,10 @@ def extract_spans_para(task, seq, review, seq_type):
                 at_sp, ac_sp = s.split(' indicates ')
                 ac, sp = ac_sp.split(' is ')
                 at, sp2 = at_sp.split(' is ')
-                if ac not in aspect_cate_list:
+                #if ac not in aspect_cate_list:
                     # print(ac)
                     # print(review)
-                    break
+                    # break
 
                 at = at.lower()
                 idx = at.find("'")
@@ -219,10 +219,10 @@ def extract_spans_para(task, seq, review, seq_type):
                 at, ot = at_ot.split(' is ')
                 ac, sp = ac_sp.split(' is ')
 
-                if ac not in aspect_cate_list:
-                    print(ac)
-                    print(review) 
-                    break
+                #if ac not in aspect_cate_list:
+                #    print(ac)
+                #    print(review) 
+                #    break
                 at = at.lower()
                 idx = at.find("'")
                 if idx != -1:

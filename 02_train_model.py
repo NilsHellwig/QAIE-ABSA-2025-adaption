@@ -299,8 +299,8 @@ if args.do_train:
     trainer.fit(model)
     
     # save the final model
-    model.model.save_pretrained(args.output_dir)
-    tokenizer.save_pretrained(args.output_dir)
+    #model.model.save_pretrained(args.output_dir)
+    #tokenizer.save_pretrained(args.output_dir)
 
     print("Finish training and saving the model!")
 
