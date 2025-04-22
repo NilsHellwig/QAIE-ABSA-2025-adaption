@@ -381,7 +381,7 @@ def run_augmentation(dataset, data_path, data_aug_path, task="asqp"):
 # run_augmentation
 TASKS = ["asqp"]
 N_SHOTS = [10, 50]
-DATASETS = ["rest15", "coursera", "hotels", "flightabsa"]
+DATASETS = ["rest15", "rest16", "coursera", "hotels", "flightabsa"]
 
 
 for task in TASKS:
