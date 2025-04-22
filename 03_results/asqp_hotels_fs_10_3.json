@@ -1,0 +1,8226 @@
+{
+    "scores": {
+        "precision": 0.14847161572052403,
+        "recall": 0.1035007610350076,
+        "f1": 0.12197309417040358
+    },
+    "labels": [
+        [
+            [
+                "lines",
+                "room_amenities cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "generous size"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "decor leans toward minimalist"
+            ],
+            [
+                "lines",
+                "room_amenities design_features",
+                "positive",
+                "modern"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "brilliant"
+            ],
+            [
+                "lodge",
+                "location general",
+                "positive",
+                "loads of nice restuarants near"
+            ],
+            [
+                "lodge",
+                "location general",
+                "positive",
+                "close enough to mid and downtown"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "will help you as much as possible"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "great"
+            ],
+            [
+                "location",
+                "location general",
+                "negative",
+                "noisy"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "great"
+            ],
+            [
+                "rooms",
+                "rooms prices",
+                "positive",
+                "cheaper"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "close to the convention centre"
+            ]
+        ],
+        [
+            [
+                "bar",
+                "hotel design_features",
+                "positive",
+                "amazing view of the skyline of singapore"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "easy reach of all the places in singapore"
+            ],
+            [
+                "bar",
+                "food_drinks quality",
+                "positive",
+                "good cocktails"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "rooms quality",
+                "positive",
+                "very new"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel design_features",
+                "negative",
+                "signs of wear and tear"
+            ]
+        ],
+        [
+            [
+                "lounge",
+                "hotel general",
+                "positive",
+                "great"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "great"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "positive",
+                "good value"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "walking distance for all meals"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "so attractive"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel quality",
+                "negative",
+                "more like a 1 star"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "people",
+                "service general",
+                "positive",
+                "very accommodating"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "knowledgeable"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very outgoing"
+            ],
+            [
+                "service",
+                "service general",
+                "positive",
+                "stands out as some of the best"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "over age 26 may want to look elsewhere"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "second to none"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "nice night for me"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "good"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "blown away"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "spectacular river views"
+            ]
+        ],
+        [
+            [
+                "concierge",
+                "service general",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "a view"
+            ],
+            [
+                "reception staff",
+                "service general",
+                "positive",
+                "lovely"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "lovely"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "amazing time"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "no hesitation in reccomending"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "made us feel truly welcome"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "kind"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "curtious"
+            ]
+        ],
+        [
+            [
+                "hospitality",
+                "service general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "winetasting",
+                "food_drinks prices",
+                "positive",
+                "free"
+            ],
+            [
+                "price",
+                "hotel prices",
+                "positive",
+                "includes parking and breakfast"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "very good"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "beautiful"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "great style"
+            ],
+            [
+                "bathrooms",
+                "rooms design_features",
+                "positive",
+                "lovely"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "omni",
+                "hotel general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "toiletries",
+                "room_amenities general",
+                "positive",
+                "good range"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "bathrooms",
+                "rooms general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very helpful"
+            ],
+            [
+                "moore hotel",
+                "hotel cleanliness",
+                "positive",
+                "spotlessly clean"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "ery easy to get to all locations whilst on holidays"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "next to central railway station"
+            ]
+        ],
+        [
+            [
+                "bathrobes",
+                "room_amenities quality",
+                "positive",
+                "soft"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "quiet zone in the centre of berlin"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "lovely"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "watertown hotel",
+                "hotel general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definately stay there again"
+            ]
+        ],
+        [
+            [
+                "price for room",
+                "rooms prices",
+                "positive",
+                "pretty good"
+            ]
+        ],
+        [
+            [
+                "the triton",
+                "location general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "spacious"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "enjoyed a magnificent view"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "rooms comfort",
+                "positive",
+                "also quiet"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "loved"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel design_features",
+                "positive",
+                "design"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "good"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "close to alot of shops and restaurants"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "within walking distance of the train station"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hilton times square",
+                "hotel general",
+                "positive",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "berchielli",
+                "hotel general",
+                "positive",
+                "highly recommend"
+            ],
+            [
+                "berchielli",
+                "hotel general",
+                "positive",
+                "completely delightful"
+            ]
+        ],
+        [
+            [
+                "langham place",
+                "hotel general",
+                "positive",
+                "my new business hotel"
+            ]
+        ],
+        [
+            [
+                "information desk",
+                "service general",
+                "positive",
+                "very helpfull"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "museum next door was also nice"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "preferred business address"
+            ],
+            [
+                "amenities",
+                "room_amenities general",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "fantastic"
+            ],
+            [
+                "suite",
+                "rooms general",
+                "positive",
+                "fantastic"
+            ],
+            [
+                "bedroom",
+                "rooms design_features",
+                "positive",
+                "large"
+            ],
+            [
+                "kitchen",
+                "room_amenities general",
+                "positive",
+                "little"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "plenty of cafes and restuarants nearby"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very helpful"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms miscellaneous",
+                "positive",
+                "no problem with cell phone reception"
+            ]
+        ],
+        [
+            [
+                "grand hyatt",
+                "hotel design_features",
+                "positive",
+                "beautiful property"
+            ],
+            [
+                "grand hyatt",
+                "location general",
+                "positive",
+                "located close to tianamen square"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "neutral",
+                "could have been more attentive"
+            ],
+            [
+                "staff",
+                "service general",
+                "neutral",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "good"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "around the corner for everything else"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "just opposite central station and tram station"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "like"
+            ],
+            [
+                "beds",
+                "rooms comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would deffinately stay there again"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "you will have a great time"
+            ]
+        ],
+        [
+            [
+                "bedrooms",
+                "rooms general",
+                "negative",
+                "let the hotel down"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "location"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "closest hotel from the central station"
+            ]
+        ],
+        [
+            [
+                "hotel casci",
+                "hotel general",
+                "positive",
+                "absolutely recommend"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely return"
+            ]
+        ],
+        [
+            [
+                "the westin",
+                "hotel general",
+                "positive",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "room_amenities cleanliness",
+                "negative",
+                "stains everywhere"
+            ]
+        ],
+        [
+            [
+                "drinks in the bar",
+                "food_drinks prices",
+                "negative",
+                "very expensive"
+            ],
+            [
+                "rooms",
+                "rooms prices",
+                "positive",
+                "quite reasonably priced"
+            ]
+        ],
+        [
+            [
+                "elevator",
+                "facilities general",
+                "negative",
+                "no"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "perfect location"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "heart of madrid by foot"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay there again"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "rooms general",
+                "negative",
+                "disappointing"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "negative",
+                "small"
+            ]
+        ],
+        [
+            [
+                "ic",
+                "hotel prices",
+                "positive",
+                "better"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "none compare"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "positive",
+                "within the expectation of the price we paid"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "extremely friendly"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "real event"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "really helpful"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "good"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "tidy"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "attentive"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "the coral princess",
+                "hotel general",
+                "positive",
+                "well kept secret"
+            ]
+        ],
+        [
+            [
+                "towels",
+                "room_amenities quality",
+                "positive",
+                "very thick and soft"
+            ],
+            [
+                "pool",
+                "facilities general",
+                "negative",
+                "no"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "bar",
+                "food_drinks quality",
+                "positive",
+                "quaint"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "horribly small"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "could not have been more pleased"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "knowledge of san francisco was excellent"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "well presented"
+            ],
+            [
+                "breakfast",
+                "food_drinks style_options",
+                "positive",
+                "all tastes are catered"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "definitely recommend"
+            ]
+        ],
+        [
+            [
+                "bed",
+                "room_amenities comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "chealsea lodge",
+                "hotel general",
+                "positive",
+                "did not love"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very kind"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "delightful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "positive",
+                "perfect for a short break in paris"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "right next to lots of the sights"
+            ],
+            [
+                "concierge",
+                "service general",
+                "positive",
+                "able to recommend great restaurants"
+            ]
+        ],
+        [
+            [
+                "place",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "rooftop pool",
+                "facilities general",
+                "neutral",
+                "only really aplunge pool"
+            ],
+            [
+                "breakfast",
+                "food_drinks prices",
+                "negative",
+                "very expensive"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "excellent"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "nice quiet spot"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "washers and dryers",
+                "facilities general",
+                "positive",
+                "super"
+            ],
+            [
+                "lounge",
+                "facilities comfort",
+                "positive",
+                "really convenient"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "turned out better than i expected"
+            ]
+        ],
+        [
+            [
+                "shuttle",
+                "facilities general",
+                "positive",
+                "provides transport to ubud centre"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "pointed me in the right direction to the main centre"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "very close to airport"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "checked me in very early"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "pleasantly surprised"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive",
+                "included in price"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "adequate"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "polite"
+            ]
+        ],
+        [
+            [
+                "triple room",
+                "rooms design_features",
+                "positive",
+                "extremely large"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "best"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "absolutely superb"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "NULL",
+                "service general",
+                "negative",
+                "no room available"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "elegant serene"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "great base"
+            ]
+        ],
+        [
+            [
+                "aalders hotel",
+                "hotel general",
+                "positive",
+                "happy to stay"
+            ],
+            [
+                "aalders hotel",
+                "hotel general",
+                "positive",
+                "will return for sure to this hotel"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "recommend"
+            ],
+            [
+                "stay",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "faces pretty rice fields and the volcano"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "good restuarants within walking distance"
+            ]
+        ],
+        [
+            [
+                "breezes",
+                "hotel general",
+                "positive",
+                "brilliant"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "alicia",
+                "hotel general",
+                "positive",
+                "not disappointed in the least"
+            ]
+        ],
+        [
+            [
+                "south pacific hotel",
+                "hotel general",
+                "positive",
+                "most enjoyable"
+            ]
+        ],
+        [],
+        [
+            [
+                "food",
+                "food_drinks quality",
+                "positive",
+                "excellent local gourmet"
+            ],
+            [
+                "restaurant",
+                "facilities design_features",
+                "positive",
+                "great place to catch the evening light"
+            ],
+            [
+                "rooftop bar",
+                "facilities design_features",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very helpful"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "joyce",
+                "service general",
+                "positive",
+                "made our stay here more than comfortable"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "jean",
+                "service general",
+                "positive",
+                "made our stay here more than comfortable"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very friendly"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "little small"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "extremely friendly"
+            ]
+        ],
+        [
+            [
+                "employees",
+                "service general",
+                "negative",
+                "room doors were opened by housekeeping"
+            ],
+            [
+                "employees",
+                "service general",
+                "negative",
+                "violating their own policy"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "accomodating"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very friendly"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms comfort",
+                "negative",
+                "also very noisy"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "negative",
+                "very dark"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "negative",
+                "noisy"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "close to all tourist sites and the trainstation"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "nice"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "warm"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "NULL",
+                "hotel comfort",
+                "positive",
+                "cosy"
+            ]
+        ],
+        [
+            [
+                "computer",
+                "facilities prices",
+                "positive",
+                "free access"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "definitely stay"
+            ]
+        ],
+        [
+            [
+                "sheraton",
+                "hotel general",
+                "positive",
+                "enjoyed our stay very much"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "perfect"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "good"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "all sights within easy walking distance"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "5 mins walk to the flower market"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "few mins from airport"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "hard to beat"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definately stay there again"
+            ]
+        ],
+        [
+            [
+                "free",
+                "facilities prices",
+                "positive",
+                "mini bar"
+            ]
+        ],
+        [
+            [
+                "benjamin",
+                "hotel general",
+                "positive",
+                "will definitely stay"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "probably stay elsewhere"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "positive",
+                "good deal"
+            ]
+        ],
+        [
+            [
+                "castle inn",
+                "hotel comfort",
+                "positive",
+                "quiet"
+            ],
+            [
+                "castle inn",
+                "hotel general",
+                "positive",
+                "perfect"
+            ],
+            [
+                "castle inn",
+                "hotel cleanliness",
+                "positive",
+                "very clean"
+            ],
+            [
+                "castle inn",
+                "location general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "bar",
+                "facilities general",
+                "positive",
+                "lovely"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "5 minutes walk from sol square and tube"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "uber cool"
+            ],
+            [
+                "restaurant",
+                "facilities design_features",
+                "positive",
+                "looked equally nice"
+            ],
+            [
+                "hotel",
+                "hotel design_features",
+                "positive",
+                "beautifully decorated"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative",
+                "extremely rude"
+            ],
+            [
+                "staff",
+                "service general",
+                "negative",
+                "not very attentive and courteous"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "delightfully quiet"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "more than perfect"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "walking distance to the main attractions"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive",
+                "everthing clean"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "elegant"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "negative",
+                "would stay again only if stuck"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel quality",
+                "positive",
+                "high end"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good"
+            ],
+            [
+                "hotel",
+                "hotel cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very accomodating"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative",
+                "not particularly helpful or courteous"
+            ],
+            [
+                "lobby",
+                "hotel general",
+                "negative",
+                "chaotic state"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel miscellaneous",
+                "neutral",
+                "could do with some updating"
+            ]
+        ],
+        [
+            [
+                "suite",
+                "rooms general",
+                "positive",
+                "had everything you could think of"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "ever so helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "tradeoffs"
+            ]
+        ],
+        [],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "rooms comfort",
+                "positive",
+                "black out blinds were fantastic for sleeping"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "near the center"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "nice location"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "neutral",
+                "standard business hotel"
+            ]
+        ],
+        [],
+        [
+            [
+                "mojitos",
+                "food_drinks quality",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "dinner cruises",
+                "food_drinks quality",
+                "negative",
+                "over rated"
+            ],
+            [
+                "dinner cruises",
+                "food_drinks prices",
+                "negative",
+                "over priced"
+            ],
+            [
+                "dinner cruises",
+                "food_drinks quality",
+                "negative",
+                "do not recommend"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "lovely to look at"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative",
+                "very false"
+            ],
+            [
+                "staff",
+                "service general",
+                "negative",
+                "very miserable"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "neutral",
+                "average"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "certainly stay"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "very comfortable"
+            ]
+        ],
+        [],
+        [
+            [
+                "everyone",
+                "service general",
+                "positive",
+                "very friendly"
+            ],
+            [
+                "everyone",
+                "service general",
+                "positive",
+                "courtious"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms prices",
+                "negative",
+                "unacceptable"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "tiny"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "shabby"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "negative",
+                "depressingly hot"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "negative",
+                "dank"
+            ],
+            [
+                "room",
+                "rooms general",
+                "negative",
+                "unacceptable"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "people",
+                "service general",
+                "negative",
+                "rude"
+            ],
+            [
+                "people",
+                "service general",
+                "negative",
+                "used strong language"
+            ],
+            [
+                "people",
+                "service general",
+                "negative",
+                "jerk"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "rydges world square hotel",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ],
+            [
+                "rydges world square hotel",
+                "hotel comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "rydges world square hotel",
+                "hotel design_features",
+                "positive",
+                "classy"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "four season mexico city",
+                "hotel general",
+                "positive",
+                "perfect"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "highly recommended"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "make our stay as comfortable"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "so friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "really did their very best"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "outstanding"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "couldnt have been better"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "magnificent"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "excellent sevice"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "fabulous"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "15 mins to walk from central station"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "will surely stay again"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "positive",
+                "honest budget"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "certainly exceed your expectations"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "overwhelming view of the duomo"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "open our windows to overlook the picturesque florentine rooftops"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "luxurious place"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "recommended"
+            ]
+        ],
+        [
+            [
+                "hospitality",
+                "service general",
+                "positive",
+                "benchmark"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "will return"
+            ]
+        ],
+        [
+            [
+                "white linens",
+                "room_amenities general",
+                "positive",
+                "love"
+            ],
+            [
+                "white linens",
+                "room_amenities cleanliness",
+                "positive",
+                "very clean"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay here again in a heartbeat"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "nice neighboorhood with good restaurants and stores"
+            ],
+            [
+                "service",
+                "service general",
+                "positive",
+                "very friendly"
+            ],
+            [
+                "parking",
+                "facilities prices",
+                "positive",
+                "free"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel cleanliness",
+                "positive",
+                "very clean"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very nice"
+            ]
+        ],
+        [
+            [
+                "palomar",
+                "hotel general",
+                "positive",
+                "will stay nowhere else"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive",
+                "free"
+            ],
+            [
+                "afternoon drinks",
+                "food_drinks prices",
+                "positive",
+                "free"
+            ],
+            [
+                "afternoon drinks",
+                "food_drinks quality",
+                "positive",
+                "delicious"
+            ],
+            [
+                "concierge",
+                "service general",
+                "positive",
+                "had a separate"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "delicious"
+            ]
+        ],
+        [
+            [
+                "hotel accademia",
+                "hotel prices",
+                "positive",
+                "okay for the money"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "negative",
+                "just wiped off"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would recommend"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "highly reccommend"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "wonderful"
+            ],
+            [
+                "breakfast",
+                "food_drinks style_options",
+                "positive",
+                "lots of choice"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very nice"
+            ]
+        ],
+        [],
+        [
+            [
+                "decor",
+                "rooms general",
+                "positive",
+                "refreshing"
+            ],
+            [
+                "decor",
+                "rooms general",
+                "positive",
+                "very modern"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "very nice"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "perfect"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "highly recommended"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "very small"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "definitely stay here again"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would return"
+            ],
+            [
+                "hotel",
+                "hotel prices",
+                "positive",
+                "excellent value for money"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "good location"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "really do genuinely care"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "extremely helpfull"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "positive",
+                "good considering the location"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "good"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "good"
+            ],
+            [
+                "price",
+                "hotel prices",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "facilities",
+                "facilities general",
+                "positive",
+                "great"
+            ],
+            [
+                "bar",
+                "food_drinks quality",
+                "positive",
+                "great"
+            ],
+            [
+                "NULL",
+                "hotel comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "always as helpful"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ],
+            [
+                "service",
+                "service general",
+                "positive",
+                "great"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "great"
+            ],
+            [
+                "NULL",
+                "hotel design_features",
+                "positive",
+                "modern"
+            ],
+            [
+                "food",
+                "food_drinks quality",
+                "positive",
+                "great"
+            ],
+            [
+                "NULL",
+                "hotel cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "very nice"
+            ]
+        ],
+        [
+            [
+                "swim up bar",
+                "facilities general",
+                "positive",
+                "great"
+            ],
+            [
+                "pool",
+                "facilities general",
+                "positive",
+                "perfect temperature"
+            ],
+            [
+                "beach",
+                "facilities general",
+                "positive",
+                "lovely"
+            ]
+        ],
+        [
+            [
+                "bernini palace",
+                "hotel general",
+                "positive",
+                "recommend"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "very convenient central"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "negative",
+                "not good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "negative",
+                "look elsewher"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "room_amenities general",
+                "positive",
+                "included any amenity we could have asked for"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "modern"
+            ],
+            [
+                "housekeeping",
+                "service general",
+                "negative",
+                "clearly ignored"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "felt as though i was the most important person there"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay there again in a heart beat"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "wonderful experience"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very friendly"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "accomodations",
+                "rooms general",
+                "positive",
+                "cannot say enough"
+            ],
+            [
+                "personnel",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "lovely ambience"
+            ],
+            [
+                "lobby",
+                "hotel design_features",
+                "positive",
+                "inviting"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "perfect"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "perfect"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "positive",
+                "no noise from the gran via street"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "beautifull"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would come back to the same room"
+            ]
+        ],
+        [
+            [
+                "attendant",
+                "service general",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative",
+                "lied about the other rooms"
+            ]
+        ],
+        [
+            [
+                "bathrooms",
+                "rooms general",
+                "positive",
+                "nice"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "great"
+            ],
+            [
+                "bedrooms",
+                "rooms design_features",
+                "positive",
+                "beautiful"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel quality",
+                "positive",
+                "first class"
+            ],
+            [
+                "hotel",
+                "hotel design_features",
+                "positive",
+                "nice views"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "superb"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "the beach was walk down a flight of steps"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "intimate"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "warm"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "wine",
+                "food_drinks quality",
+                "positive",
+                "good quality"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "good"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great time"
+            ]
+        ],
+        [
+            [
+                "victoria 4",
+                "hotel general",
+                "positive",
+                "good choic"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "facilities prices",
+                "negative",
+                "charged more"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "very accessible to long beach"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "convenient to area highways"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely stay"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "sized right"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very good"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "way in which the hotel handled this",
+                "service general",
+                "negative",
+                "major concern"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "positive",
+                "best around for the budget"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "appointments",
+                "room_amenities general",
+                "neutral",
+                "basic"
+            ],
+            [
+                "buffet breakfast",
+                "food_drinks quality",
+                "neutral",
+                "basic"
+            ],
+            [
+                "buffet breakfast",
+                "food_drinks quality",
+                "positive",
+                "tasty"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "good"
+            ],
+            [
+                "appointments",
+                "room_amenities general",
+                "positive",
+                "nice"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel quality",
+                "positive",
+                "quality"
+            ],
+            [
+                "NULL",
+                "hotel prices",
+                "positive",
+                "best price"
+            ],
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "service"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "large"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "just one feature here"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "fabulous"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "very close to the airport"
+            ],
+            [
+                "hotel",
+                "hotel miscellaneous",
+                "negative",
+                "but not so easy to find"
+            ]
+        ],
+        [
+            [
+                "resort",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ],
+            [
+                "resort",
+                "hotel general",
+                "positive",
+                "xcellent"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "quite large"
+            ],
+            [
+                "service - staff",
+                "service general",
+                "positive",
+                "very impressed"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "positive",
+                "very comfortable"
+            ]
+        ],
+        [
+            [
+                "shower",
+                "rooms general",
+                "positive",
+                "heavenly"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "pretty good"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms prices",
+                "negative",
+                "double"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "in the middle of everything"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "some good info from the tourist desk"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "negative",
+                "shame"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely stay here again"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "will not stay anywhere else"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "positive",
+                "good for a stop over"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "airport shuttle bus",
+                "facilities general",
+                "positive",
+                "picks you up right outside the hotel"
+            ]
+        ],
+        [
+            [
+                "starwood",
+                "hotel general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel prices",
+                "negative",
+                "more expenseive"
+            ],
+            [
+                "NULL",
+                "hotel prices",
+                "positive",
+                "worth every penny"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "short driving disntance to the ala mona shopping center"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "walking distance to many attractions"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "treated our children like royalty"
+            ]
+        ],
+        [
+            [
+                "lifts",
+                "facilities general",
+                "positive",
+                "fast"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very helpful"
+            ],
+            [
+                "NULL",
+                "rooms cleanliness",
+                "positive",
+                "very clean"
+            ],
+            [
+                "beds",
+                "rooms comfort",
+                "positive",
+                "extremely comfortable"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "beautiful view"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "aparthotel silver",
+                "hotel quality",
+                "positive",
+                "tourist class hotel"
+            ],
+            [
+                "aparthotel silver",
+                "hotel general",
+                "positive",
+                "good"
+            ],
+            [
+                "aparthotel silver",
+                "location general",
+                "positive",
+                "quiet neighbourhood"
+            ],
+            [
+                "aparthotel silver",
+                "location general",
+                "positive",
+                "north of the city centre"
+            ],
+            [
+                "aparthotel silver",
+                "hotel cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "breakfasts",
+                "food_drinks quality",
+                "positive",
+                "good"
+            ],
+            [
+                "afternoon tea",
+                "food_drinks miscellaneous",
+                "positive",
+                "recommend"
+            ],
+            [
+                "breakfasts",
+                "food_drinks style_options",
+                "positive",
+                "lots of choice to suit all tastes"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "great"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very friendly"
+            ],
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive",
+                "excellant complementary"
+            ],
+            [
+                "breakfast",
+                "food_drinks style_options",
+                "positive",
+                "american style"
+            ]
+        ],
+        [
+            [
+                "hotels",
+                "hotel general",
+                "positive",
+                "would recommend"
+            ]
+        ],
+        [
+            [
+                "huge umbrellas",
+                "facilities prices",
+                "positive",
+                "free of charge"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would definately stay"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "room_amenities general",
+                "positive",
+                "nice amenities"
+            ],
+            [
+                "hotel",
+                "hotel prices",
+                "positive",
+                "great priced"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "beautifully restored with historical furniture"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely stay here again"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "beautiful"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "floors in marble"
+            ]
+        ],
+        [
+            [
+                "mattress",
+                "room_amenities quality",
+                "negative",
+                "very firm"
+            ]
+        ],
+        [
+            [
+                "security",
+                "service general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "excellent"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "very good choice"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "surrounded by restaurants and bars"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "close to every touristic spot"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "enjoyed a restful sleep every nigh"
+            ],
+            [
+                "room",
+                "rooms quality",
+                "positive",
+                "quiet"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "negative",
+                "really small"
+            ],
+            [
+                "rooms",
+                "rooms prices",
+                "positive",
+                "low priced"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "good location"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "great"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "kindness"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "great location"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "lovely"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "modern"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "definitely stay here"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel design_features",
+                "positive",
+                "classy with a beautiful lobby"
+            ]
+        ],
+        [
+            [
+                "breakfas",
+                "food_drinks quality",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel miscellaneous",
+                "positive",
+                "recommend this hotel for its location"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "nice"
+            ],
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive",
+                "reasonably priced"
+            ],
+            [
+                "room",
+                "rooms prices",
+                "negative",
+                "extra to cost"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "very clean"
+            ],
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "large"
+            ]
+        ],
+        [
+            [
+                "refrigerator",
+                "room_amenities general",
+                "negative",
+                "not work properly"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "excellent"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "walking distance to van gogh museum"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "close to airport"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "lots of nice restaurants and terraces around"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "amazing restaurant nearby"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel quality",
+                "positive",
+                "friendly"
+            ],
+            [
+                "hotel",
+                "hotel quality",
+                "positive",
+                "welcoming"
+            ],
+            [
+                "hotel",
+                "hotel comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "pleasantly suprised"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "service general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "marriott in san juan",
+                "hotel general",
+                "positive",
+                "loved"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "excellent location"
+            ],
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "right around the corner from the eiffel tower"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "definatly stay here again"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "recommend"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "lovely"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "well sized"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "positive",
+                "good size"
+            ],
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "good"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel design_features",
+                "negative",
+                "old"
+            ],
+            [
+                "NULL",
+                "hotel design_features",
+                "negative",
+                "small"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "convenient"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "hotel saint marie",
+                "hotel general",
+                "positive",
+                "highly recommend"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "definitely recommend"
+            ]
+        ],
+        [
+            [
+                "sunroute plaza",
+                "hotel general",
+                "positive",
+                "had a wonderful time"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "located right downtown with many services nearby"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would stay there again without doubt"
+            ],
+            [
+                "service",
+                "service general",
+                "positive",
+                "excellant"
+            ],
+            [
+                "amenities",
+                "room_amenities quality",
+                "positive",
+                "modern"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "enjoy the history of the area"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "lends itself to exploring old san juan in comfort"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "great"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "security",
+                "hotel miscellaneous",
+                "positive",
+                "great"
+            ],
+            [
+                "service",
+                "service general",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "location general",
+                "positive",
+                "retro"
+            ],
+            [
+                "lobby",
+                "hotel comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "sitting area",
+                "hotel comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "simply furnished"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "location general",
+                "positive",
+                "within walking distance of alexanderplatz"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "huge"
+            ],
+            [
+                "bathroom",
+                "rooms cleanliness",
+                "positive",
+                "very clean"
+            ],
+            [
+                "room",
+                "room_amenities general",
+                "positive",
+                "separate tv"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "positive",
+                "beautiful"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "furniture",
+                "rooms design_features",
+                "positive",
+                "modern"
+            ],
+            [
+                "bathroom",
+                "rooms design_features",
+                "negative",
+                "tad on the small side"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "nice"
+            ],
+            [
+                "elevator",
+                "facilities general",
+                "negative",
+                "no"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very nice"
+            ]
+        ],
+        [
+            [
+                "free wifi",
+                "facilities quality",
+                "negative",
+                "slow side of things"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "negative",
+                "not to clean"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "value",
+                "hotel prices",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "front desk",
+                "service general",
+                "positive",
+                "saving grace"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great"
+            ],
+            [
+                "management team",
+                "service general",
+                "positive",
+                "saving grace"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "good"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "best"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "service general",
+                "positive",
+                "best"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great place in every way"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "positive",
+                "adequate"
+            ],
+            [
+                "rooms",
+                "rooms design_features",
+                "negative",
+                "small"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "kapok",
+                "hotel general",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "the borgmann villa",
+                "location general",
+                "positive",
+                "backs on to amsterdams beautiful vondel park"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "will definitely be back"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive",
+                "free"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms design_features",
+                "positive",
+                "great view of the golden gate bridge"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "room service meals",
+                "food_drinks quality",
+                "positive",
+                "best steaks we have ever had"
+            ],
+            [
+                "room service meals",
+                "food_drinks quality",
+                "positive",
+                "just incredible"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel prices",
+                "positive",
+                "the price"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "excellent"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "buffet",
+                "food_drinks quality",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms design_features",
+                "neutral",
+                "very basic"
+            ]
+        ],
+        [
+            [
+                "pool",
+                "facilities general",
+                "positive",
+                "great"
+            ],
+            [
+                "food",
+                "food_drinks quality",
+                "positive",
+                "excellent"
+            ],
+            [
+                "rooms",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "rooms",
+                "rooms comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel design_features",
+                "negative",
+                "small"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "brand new"
+            ]
+        ],
+        [
+            [
+                "rooms",
+                "rooms general",
+                "positive",
+                "great"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay here again"
+            ]
+        ],
+        [
+            [
+                "room",
+                "room_amenities general",
+                "neutral",
+                "wish they had coffeepots"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "excellent"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "right next to centraal station"
+            ]
+        ],
+        [
+            [
+                "personell",
+                "service general",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would recommend"
+            ]
+        ],
+        [
+            [
+                "reception staff",
+                "service general",
+                "positive",
+                "warm welcome on arrival"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great place to be"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay here again"
+            ]
+        ],
+        [
+            [
+                "bed",
+                "rooms comfort",
+                "positive",
+                "most comfortable"
+            ],
+            [
+                "pillows",
+                "rooms comfort",
+                "positive",
+                "most comfortable"
+            ],
+            [
+                "room",
+                "rooms general",
+                "positive",
+                "lovely"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ]
+    ],
+    "preds": [
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "brilliant"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great rooms"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "within easy walking distance of good bars"
+            ],
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "great location for the night - life"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great new hotel in san francisco close to the convention centre"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "the easy reach of all the places in singapore"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "very new bathroom"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "if you can get a good rate"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "good value for new york stayed for 6 nights from the 9th january"
+            ]
+        ],
+        [
+            [
+                "restaurant",
+                "restaurant general",
+                "negative",
+                "not"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "so attractive"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very accommodating"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "some of the best i have experience"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very outgoing"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "a superb hotel stayed on the way to the qm2"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "may want to look elsewhere"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "second to none"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "a nice night for me"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "good location"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "my husband whisked me away"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "huge"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "both nights of our stay from helpful concierge"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "lovely room we stayed in"
+            ],
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "room with a view"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "amazing time"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "no hesitation"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "kind"
+            ],
+            [
+                "staff",
+                "rooms cleanliness",
+                "positive",
+                "curtious"
+            ]
+        ],
+        [
+            [
+                "hospitality",
+                "hotel general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "a beautiful place in a very good location"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great style"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "appointed i frequently have to stay in la for one or two nights at a time"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "room",
+                "hotel general",
+                "positive",
+                "small but clean"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "rooms cleanliness",
+                "positive",
+                "spotlessly clean"
+            ],
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "very helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "very comfortable"
+            ]
+        ],
+        [
+            [
+                "location being next to central railway station",
+                "location general",
+                "positive",
+                "an asset"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "the good - pet friendly"
+            ],
+            [
+                "coffee and tea",
+                "rooms cleanliness",
+                "positive",
+                "available in the lobby every morning"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "quiet zone"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "15 min"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definately stay there again"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "pretty good"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "pretty good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great location right next to the gates of chinatown"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "spacious"
+            ],
+            [
+                "room",
+                "hotel general",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "property general",
+                "positive",
+                "quiet"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "design hotel"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "good location"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "great - down the street from the duomo"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "within walking distance"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "experience",
+                "hotel general",
+                "positive",
+                "completely delightful"
+            ],
+            [
+                "experience",
+                "rooms comfort",
+                "positive",
+                "completely delightful"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "my new business hotel from now onwards in hongkong"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "used by lots of airline staff"
+            ],
+            [
+                "information desk",
+                "hotel general",
+                "positive",
+                "very helpfull for maps"
+            ]
+        ],
+        [
+            [
+                "museum next door",
+                "hotel general",
+                "positive",
+                "also nice"
+            ]
+        ],
+        [],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "fantastic"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "services",
+                "service general",
+                "positive",
+                "would only offer you there services"
+            ],
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "very helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "had no problem with cell phone reception"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "probaly made 50 calls"
+            ]
+        ],
+        [
+            [
+                "property",
+                "hotel general",
+                "positive",
+                "beautiful property located close to tianamen square"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "could have been more attentive"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "only downside"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "just opposite central station"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "around the corner"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would deffinately stay there again"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would absolutely recommend"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely return"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "loved the westin"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "stains everywhere"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "no elevator"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "perfect location to discover the heart of madrid by foot"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay there again"
+            ]
+        ],
+        [
+            [
+                "bathroom",
+                "hotel general",
+                "negative",
+                "disappointing"
+            ],
+            [
+                "bathroom",
+                "rooms cleanliness",
+                "negative",
+                "small"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "usually have stayed at the windsor court"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "within the expectation of the price we paid"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "extremely friendly"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "square ti",
+                "hotel comfort",
+                "positive",
+                "quiet"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "a good room"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "attentive"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "not"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "quaint bar"
+            ]
+        ],
+        [
+            [
+                "room that i stayed in",
+                "hotel general",
+                "negative",
+                "horribly small"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "knowledge of san francisco",
+                "service general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "well presented"
+            ],
+            [
+                "breakfast",
+                "food_drinks tastes",
+                "positive",
+                "well presented"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would definitely recommend"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "so between the quietness and the comfortable bed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "did not love the chealsea lodge first of all"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "very kind"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "really hot"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "perfect for a short break in paris"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great restaurants"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "right next to lots of the sights"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "wonderful place"
+            ]
+        ],
+        [
+            [
+                "rooftop",
+                "rooms comfort",
+                "positive",
+                "lovley to sit out"
+            ],
+            [
+                "rooftop pool",
+                "hotel general",
+                "positive",
+                "only really aplunge pool"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "a nice quiet spot with excellent service"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "friendly and helpful"
+            ]
+        ],
+        [
+            [
+                "lounge on the second floor",
+                "hotel general",
+                "positive",
+                "really convenient"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "turned out better than i expected"
+            ],
+            [
+                "hotel",
+                "rooms cleanliness",
+                "positive",
+                "completely relaxed"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "hotel general",
+                "positive",
+                "included in price"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "adequate"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff at the hotel",
+                "hotel general",
+                "positive",
+                "polite"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "extremely large"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "absolutely superb"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "firmed reservation"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "elegant serene"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great base for seeing all the sights in boston"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "plenty of good restuarants within walking distance"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "not disappointed in the least"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great place to catch the evening light"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "very helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "stayed here for 3 nights in club"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "very friendly"
+            ]
+        ],
+        [
+            [
+                "room",
+                "hotel general",
+                "positive",
+                "a little small"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "extremely friendly"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "negative",
+                "not"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "rooms comfort",
+                "positive",
+                "very friendly"
+            ],
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "noisy"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "very dark"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "very pleasant"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "free access to computer in a lobby"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "perfect location in center of old berlin"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "good location"
+            ]
+        ],
+        [
+            [
+                "flower market",
+                "location general",
+                "positive",
+                "5 mins walk"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "my \" go to \" hotel in sfo great location"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great room"
+            ]
+        ],
+        [
+            [
+                "shuttle",
+                "service general",
+                "positive",
+                "left on time"
+            ],
+            [
+                "shuttle",
+                "service general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "will return"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "hard to beat"
+            ],
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "the most critical thing to me in picking out an nyc hotel"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definately stay there again but am in no hurry to go back to madrid"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "a free mini bar with coke and beer"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "will definitely stay at the benjamin again"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good deal"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "perfect"
+            ],
+            [
+                "location",
+                "rooms cleanliness",
+                "positive",
+                "very clean"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "cool"
+            ],
+            [
+                "restaurant",
+                "restaurants general",
+                "positive",
+                "equally nice"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "negative",
+                "extremely rude"
+            ],
+            [
+                "staff",
+                "service general",
+                "negative",
+                "not very attentive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "my single room"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "walking distance to the main attractions"
+            ],
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "more than perfect"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "rooms cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "hotel general",
+                "negative",
+                "not particularly helpful or courteous"
+            ],
+            [
+                "staff",
+                "rooms cleanliness",
+                "negative",
+                "not particularly helpful"
+            ]
+        ],
+        [
+            [
+                "hotel for boston",
+                "hotel general",
+                "positive",
+                "could do with some updating"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "ever so helpful"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "tradeoffs"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "about 30 seconds from the ( underground ) train station to the airport"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "fantastic for sleeping"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "nice location"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "standard business hotel"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "fantastic mojitos in the lounge bar"
+            ]
+        ],
+        [
+            [
+                "dinner cruises",
+                "hotel general",
+                "negative",
+                "not recommend"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "staff comfort",
+                "negative",
+                "very miserable"
+            ],
+            [
+                "staff",
+                "hotel general",
+                "negative",
+                "very false"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would certainly stay"
+            ]
+        ],
+        [
+            [
+                "room",
+                "hotel general",
+                "positive",
+                "small"
+            ],
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "very comfortable"
+            ]
+        ],
+        [],
+        [
+            [
+                "everyone",
+                "rooms cleanliness",
+                "positive",
+                "courtious"
+            ],
+            [
+                "everyone",
+                "hotel general",
+                "positive",
+                "very friendly"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly and helpful"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "be sure to get the sunrise package"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "rooms comfort",
+                "positive",
+                "classy"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good hotel must have stayed in a different hotel from the last review"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "four season mexico city perfect way to end our week in mexico"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "highly recommended"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "really did their very best to make our stay as comfortable as possible"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "smack between the duomo and piazza signoria"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "outstanding"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "couldnt have been better"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "magnificent"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "fabulous"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "only took about 15 mins to walk from central station"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "will surely stay again"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "honest"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "had a room facing the back"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "recommended"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "benchmark in hospitality"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "will return"
+            ]
+        ],
+        [
+            [
+                "linens",
+                "hotel general",
+                "positive",
+                "very clean"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay here again in a heartbeat"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very nice"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "stayed on the club level"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "okay for the money"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel cleanliness",
+                "negative",
+                "not changed by the cleaning lady"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would recommend"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would highly reccommend"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks prices",
+                "positive",
+                "wonderful"
+            ],
+            [
+                "breakfast",
+                "food_drinks quality",
+                "positive",
+                "wonderful with lots of choice"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [],
+        [
+            [
+                "decor",
+                "hotel general",
+                "positive",
+                "very modern"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "very nice"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "highly recommended"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "a very small room"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely stay here again"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would return"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "really do genuinely care"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "extremely helpfull"
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "extremely helpful"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "good"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "good price"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "staff",
+                "service general",
+                "positive",
+                "always as helpful as they could be"
+            ]
+        ],
+        [],
+        [
+            [
+                "pool",
+                "rooms comfort",
+                "positive",
+                "perfect temperature"
+            ],
+            [
+                "beach",
+                "hotel general",
+                "positive",
+                "lovely"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "recommend bernini palace i stayed in the bernini palace hotel at easter 2005"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "very convenient central location on the beautiful tree - lined paseo de la reforma"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "food_drinks quality",
+                "negative",
+                "not good"
+            ],
+            [
+                "breakfast",
+                "food_drinks prices",
+                "negative",
+                "not good"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "a ton"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "felt as though i was the most important person there"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "a wonderful experience"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "rooms cleanliness",
+                "positive",
+                "even brought our son a gold fish"
+            ],
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "very friendly"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "loved it"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ambience",
+                "rooms comfort",
+                "positive",
+                "lovely"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "perfect location"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "but in spite of that i would come back"
+            ]
+        ],
+        [
+            [
+                "attendant",
+                "hotel general",
+                "positive",
+                "friendly"
+            ],
+            [
+                "attendant",
+                "rooms cleanliness",
+                "positive",
+                "lots of kids"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "beautiful bedrooms with nice bathrooms"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "nice views"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "superb first class"
+            ]
+        ],
+        [
+            [
+                "bar",
+                "rooms cleanliness",
+                "positive",
+                "one of the best in ny"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "one of the best in ny"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "apt 2a"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "warm"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "fantastic as well"
+            ]
+        ],
+        [
+            [
+                "wine",
+                "wine general",
+                "positive",
+                "good quality"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good location"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great time"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "convenient to area highways"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very accessible to long beach"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very good"
+            ],
+            [
+                "breakfast",
+                "rooms comfort",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "loved the halekulani"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "the best around for the budget traveler"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "no regret at all"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "nice"
+            ],
+            [
+                "room",
+                "hotel general",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "service",
+                "service general",
+                "positive",
+                "had very good service all around"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "just one feature"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "traveled with our teenage daughter who enjoyed being close to the hip boutiques such as hm"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "not visible from main roads"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "located very close to the airport"
+            ]
+        ],
+        [
+            [
+                "resort",
+                "hotel general",
+                "positive",
+                "xcellent resort"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "heavenly shower with very good water"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "pretty good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "single room double price"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "slap bang in the middle of everything"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "$ 64 a night"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "friendly and helpful"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely stay here again"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "will not stay anywhere else when in london"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "good for a stop over"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "airport shuttle bus",
+                "service general",
+                "positive",
+                "picks you up right outside the hotel"
+            ]
+        ],
+        [
+            [
+                "property",
+                "hotel general",
+                "negative",
+                "probably fine for tourist travel"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "walking distance to many attractions"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "fast lifts"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "beautiful view from room"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great holiday great hotel"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "service general",
+                "positive",
+                "great service"
+            ],
+            [
+                "breakfast",
+                "service general",
+                "positive",
+                "excellant"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would definately stay in the same hotel"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definitely stay here again"
+            ]
+        ],
+        [
+            [
+                "bath",
+                "rooms comfort",
+                "positive",
+                "jacuzzi bathtubs"
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "beautiful rooms with floors in marble"
+            ]
+        ],
+        [
+            [
+                "mattress",
+                "hotel general",
+                "positive",
+                "very firm"
+            ]
+        ],
+        [
+            [
+                "security",
+                "hotel general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "very good choice"
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "close to every touristic spot"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "we requested a quiet room"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "good location"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "lovely modern"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "will definitely stay here when we come back"
+            ]
+        ],
+        [
+            [
+                "lobby",
+                "rooms cleanliness",
+                "positive",
+                "front desk area"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "classy"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "also has a nice breakfas"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would recommend"
+            ]
+        ],
+        [
+            [
+                "breakfast",
+                "rooms general",
+                "positive",
+                "reasonably priced"
+            ],
+            [
+                "breakfast",
+                "hotel general",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "room",
+                "hotel general",
+                "positive",
+                "large"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "very clean"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "location",
+                "rooms cleanliness",
+                "positive",
+                "walking distance"
+            ],
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "excellent location"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "seafood",
+                "restaurants general",
+                "positive",
+                "very famous"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "bad"
+            ]
+        ],
+        [],
+        [],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would definatly stay here again"
+            ]
+        ],
+        [
+            [
+                "room",
+                "rooms comfort",
+                "positive",
+                "well sized"
+            ],
+            [
+                "room",
+                "rooms cleanliness",
+                "positive",
+                "good"
+            ],
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "excellent stay"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "old and small"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would definitely recommend"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "location general",
+                "positive",
+                "located right downtown with many services nearby"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would stay there again without doubt"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "location",
+                "location general",
+                "positive",
+                "lends itself to exploring old san juan in comfort"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "superb"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "service general",
+                "positive",
+                "great location"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "lobby",
+                "hotel general",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "within walking distance of alexanderplatz"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "room",
+                "hotel general",
+                "positive",
+                "huge"
+            ],
+            [
+                "room",
+                "bathrooms comfort",
+                "positive",
+                "beautiful"
+            ],
+            [
+                "room",
+                "bathrooms cleanliness",
+                "positive",
+                "very clean"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "nice hotel"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "location"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "very nice"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "negative",
+                "not to clean"
+            ]
+        ],
+        [
+            [
+                "location",
+                "hotel general",
+                "positive",
+                "great value"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "great location"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "as good as ever"
+            ]
+        ],
+        [],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "loved the hotel"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "great place in every way"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "the borgmann villa backs on to amsterdams beautiful vondel park"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "will definitely be back soon"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "excellent hotel for the price"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "buffet",
+                "hotel general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "food in the restaurant",
+                "food general",
+                "positive",
+                "excellent"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "small but looked brand new to us"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "hotel general",
+                "positive",
+                "great"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay here again"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "do wish they had coffeepots in room"
+            ]
+        ],
+        [
+            [
+                "location",
+                "location general",
+                "positive",
+                "excellent right next to centraal station"
+            ]
+        ],
+        [
+            [
+                "personell",
+                "service general",
+                "positive",
+                "nice"
+            ],
+            [
+                "service",
+                "service general",
+                "positive",
+                "- minded"
+            ]
+        ],
+        [
+            [
+                "hotel",
+                "hotel general",
+                "positive",
+                "would recommend"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "venient"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "would stay here again"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "hotel general",
+                "positive",
+                "stayed on the 5th floor in a lovely clean room with the most comfortable bed and pillows ever"
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,7214 @@
+{
+    "scores": {
+        "precision": 0.18732782369146006,
+        "recall": 0.11604095563139932,
+        "f1": 0.1433087460484721
+    },
+    "labels": [
+        [
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "person",
+                "airline service",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "customer treatment",
+                "airline service",
+                "positive",
+                "correct"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "onboard cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "quantity of food",
+                "onboard food",
+                "negative",
+                "disappointed"
+            ],
+            [
+                "plate",
+                "onboard food",
+                "negative",
+                "look full"
+            ],
+            [
+                "cherry mousse",
+                "onboard food",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "looked at me angry"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "negative",
+                "would expect minimum"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "take zero responsibility for their mistakes"
+            ]
+        ],
+        [
+            [
+                "hospitality",
+                "airline service",
+                "negative",
+                "bad"
+            ],
+            [
+                "hospitality",
+                "airline service",
+                "negative",
+                "felt rushed"
+            ]
+        ],
+        [
+            [
+                "fee",
+                "airline price",
+                "negative",
+                "high"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "underperfomed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "good"
+            ],
+            [
+                "seat",
+                "onboard seat comfort",
+                "negative",
+                "stiff"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "good"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "worse"
+            ]
+        ],
+        [
+            [
+                "flight crew",
+                "airline service",
+                "positive",
+                "impressed"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "attentive"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed for one hour"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "business class with aegean airlines",
+                "airline general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [
+            [
+                "attendant",
+                "airline service",
+                "negative",
+                "unpleasant"
+            ],
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "pay extra"
+            ],
+            [
+                "attendant",
+                "airline service",
+                "negative",
+                "singling out people of color"
+            ]
+        ],
+        [
+            [
+                "air france",
+                "airline general",
+                "negative",
+                "wasn't great"
+            ]
+        ],
+        [
+            [
+                "checking",
+                "airport operation check_in",
+                "positive",
+                "fast"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "well"
+            ],
+            [
+                "boarding",
+                "airport operation boarding",
+                "positive",
+                "fast"
+            ]
+        ],
+        [
+            [
+                "book our luggage",
+                "airport operation baggage",
+                "negative",
+                "problem"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "neutral",
+                "delayed 2 hours"
+            ],
+            [
+                "speedy check in",
+                "airport operation check_in",
+                "negative",
+                "joke"
+            ]
+        ],
+        [
+            [
+                "movie selection",
+                "onboard entertainment",
+                "positive",
+                "first rate"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "friendly atmosphere"
+            ],
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "welcomed with smiles"
+            ]
+        ],
+        [
+            [
+                "attendants",
+                "airline service",
+                "positive",
+                "well organised"
+            ],
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "easy"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "onboard seat comfort",
+                "negative",
+                "uncomfortable"
+            ],
+            [
+                "NULL",
+                "onboard seat comfort",
+                "negative",
+                "tight"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "lovely"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "wouldn\u2019t travel with them again"
+            ],
+            [
+                "tui flights",
+                "airline general",
+                "negative",
+                "not a fan"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "negative",
+                "unavailable"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "a breeze"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "2h30 delay"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed by 70 minutes"
+            ]
+        ],
+        [
+            [
+                "turkish airline",
+                "airline general",
+                "positive",
+                "happy to chose"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "took off about half an hour late"
+            ]
+        ],
+        [
+            [
+                "person at check in",
+                "airline service",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "person",
+                "airline service",
+                "positive",
+                "compliment"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "simple"
+            ]
+        ],
+        [
+            [
+                "lounge/fast track/priority boarding",
+                "airport operation boarding",
+                "positive",
+                "smooth ride"
+            ],
+            [
+                "cost",
+                "airline price",
+                "positive",
+                "reasonable"
+            ]
+        ],
+        [
+            [
+                "easy jet flight",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "prices",
+                "onboard price",
+                "positive",
+                "fair"
+            ],
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "left on time"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "baggage drop",
+                "airport operation baggage",
+                "positive",
+                "no problems"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline price",
+                "negative",
+                "trying to squeeze every penny out of you"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "not be comfortable"
+            ]
+        ],
+        [
+            [
+                "organisation",
+                "airline service",
+                "negative",
+                "chaos"
+            ],
+            [
+                "jet2",
+                "airline general",
+                "positive",
+                "recommend"
+            ]
+        ],
+        [
+            [
+                "leg room",
+                "onboard seat legroom",
+                "negative",
+                "tight"
+            ]
+        ],
+        [
+            [
+                "gatwick north to person",
+                "punctuality general",
+                "negative",
+                "delayed by 1 hour"
+            ]
+        ],
+        [
+            [
+                "baggage",
+                "airport operation baggage",
+                "negative",
+                "more enforcement"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "onboard seat legroom",
+                "negative",
+                "uncomfortable cramping"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "narrow"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "positioned so that you were staring into the face of the adjacent passenger"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "neutral",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "fly with another carrier"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "okay for a short flight"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ],
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "poor"
+            ],
+            [
+                "every one on the team",
+                "airline service",
+                "negative",
+                "liar"
+            ],
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "good"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "polite"
+            ]
+        ],
+        [
+            [
+                "easyjet",
+                "airline general",
+                "positive",
+                "easy"
+            ]
+        ],
+        [
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "conned"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "jet 2",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "struggling"
+            ],
+            [
+                "taking off",
+                "punctuality general",
+                "negative",
+                "late"
+            ]
+        ],
+        [
+            [
+                "company",
+                "airline general",
+                "negative",
+                "joke"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "punctuality",
+                "punctuality general",
+                "positive",
+                "impressive"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "impressive"
+            ]
+        ],
+        [
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "incompetence"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "joy"
+            ],
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "neutral",
+                "all right"
+            ],
+            [
+                "service",
+                "airline service",
+                "positive",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "meals",
+                "onboard food",
+                "negative",
+                "poor quality"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "roll with one piece of turkey",
+                "onboard food",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "person",
+                "airline service",
+                "positive",
+                "best"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "cramped"
+            ]
+        ],
+        [
+            [
+                "young lady",
+                "airline service",
+                "positive",
+                "blessed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "beware"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "reassuring"
+            ]
+        ],
+        [
+            [
+                "boarding",
+                "airport operation boarding",
+                "negative",
+                "got denied"
+            ],
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "letdown"
+            ]
+        ],
+        [
+            [
+                "jet2",
+                "airline general",
+                "positive",
+                "efficient"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "kind"
+            ],
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "knowledgeable"
+            ],
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "professional"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "neutral",
+                "okay"
+            ]
+        ],
+        [
+            [
+                "aalborg-copehagen",
+                "airline general",
+                "neutral",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "flight crew",
+                "airline service",
+                "positive",
+                "fantastic"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "professionally"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "with care"
+            ],
+            [
+                "flight crew",
+                "airline service",
+                "positive",
+                "with care"
+            ],
+            [
+                "flight crew",
+                "airline service",
+                "positive",
+                "professionally"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "bag",
+                "airport operation baggage",
+                "negative",
+                "lost"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "disappointed"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "cancelled"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "hour and half late"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "excellent"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "coffee",
+                "onboard food",
+                "negative",
+                "no"
+            ],
+            [
+                "lunch",
+                "onboard food",
+                "negative",
+                "no"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "great"
+            ],
+            [
+                "check in and inflight teams",
+                "airline service",
+                "positive",
+                "work very hard"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "bad way to speak"
+            ]
+        ],
+        [
+            [
+                "roundtrip flights",
+                "airline general",
+                "positive",
+                "outstanding"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [
+            [
+                "entertainment movie selection",
+                "onboard entertainment",
+                "positive",
+                "good"
+            ],
+            [
+                "lounge seating",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "NULL",
+                "onboard cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "seating",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "superb"
+            ],
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "excellent"
+            ],
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "efficient"
+            ],
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "excellent"
+            ],
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "baggage drop",
+                "airport operation baggage",
+                "negative",
+                "took a long time"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "luggage",
+                "airport operation baggage",
+                "negative",
+                "missing"
+            ]
+        ],
+        [
+            [
+                "stewards",
+                "airline service",
+                "negative",
+                "no"
+            ]
+        ],
+        [
+            [
+                "cabin crew member",
+                "airline service",
+                "negative",
+                "yelling"
+            ]
+        ],
+        [
+            [
+                "pastries",
+                "onboard food",
+                "positive",
+                "fresh"
+            ],
+            [
+                "fruit",
+                "onboard food",
+                "positive",
+                "fresh"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "negative",
+                "expect friendlier"
+            ]
+        ],
+        [
+            [
+                "selection of movies",
+                "onboard entertainment",
+                "negative",
+                "limited"
+            ],
+            [
+                "entertainment system",
+                "onboard entertainment",
+                "negative",
+                "needed to be updated"
+            ],
+            [
+                "selection of movies",
+                "onboard entertainment",
+                "negative",
+                "old"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "pleasant"
+            ],
+            [
+                "person",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "discrimination"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "negative",
+                "never have the pleasure of my company"
+            ]
+        ],
+        [
+            [
+                "premium economy seats",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "water",
+                "onboard food",
+                "negative",
+                "ran out of"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "good"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "attentive"
+            ]
+        ],
+        [
+            [
+                "extra cost for the priority",
+                "airline price",
+                "negative",
+                "joke"
+            ],
+            [
+                "board",
+                "airport operation boarding",
+                "negative",
+                "chaos"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "wider than other airlines"
+            ]
+        ],
+        [
+            [
+                "business class",
+                "airline general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "positive",
+                "can\u2019t fault"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "bad"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "nothing has improved"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "owned by a corrupt government"
+            ],
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "can't speak english"
+            ]
+        ],
+        [
+            [
+                "aegean flight",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "staff on board",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "airport staff on the ground",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff on board",
+                "airline service",
+                "positive",
+                "polite"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "rude"
+            ]
+        ],
+        [
+            [
+                "aireuropa",
+                "airline general",
+                "negative",
+                "blacklist"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airport operation check_in",
+                "negative",
+                "long lines"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "disgraceful"
+            ]
+        ],
+        [
+            [
+                "refund",
+                "airline price",
+                "negative",
+                "never get any"
+            ],
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "nobody to talk to"
+            ]
+        ],
+        [
+            [
+                "baggage behaviour",
+                "airport operation baggage",
+                "negative",
+                "terrible"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "fine"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "pleasant"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "uncomfortable"
+            ],
+            [
+                "seats",
+                "onboard cleanliness",
+                "negative",
+                "wasn\u2019t cleaned"
+            ]
+        ],
+        [
+            [
+                "meals",
+                "onboard food",
+                "positive",
+                "tasty"
+            ],
+            [
+                "meals",
+                "onboard food",
+                "positive",
+                "top notch"
+            ],
+            [
+                "meals",
+                "onboard food",
+                "positive",
+                "abundant"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "3 hour delay"
+            ]
+        ],
+        [
+            [
+                "leg room",
+                "onboard seat legroom",
+                "positive",
+                "good"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "pleasant"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "delay"
+            ]
+        ],
+        [
+            [
+                "pegasus",
+                "airline price",
+                "positive",
+                "affordable"
+            ]
+        ],
+        [
+            [
+                "tui",
+                "airline general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "service of food",
+                "onboard food",
+                "positive",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "lack of genuine concern"
+            ],
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "late"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "welcoming"
+            ],
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "not worth it"
+            ]
+        ],
+        [
+            [
+                "snacks",
+                "onboard food",
+                "positive",
+                "good"
+            ],
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed several times"
+            ]
+        ],
+        [
+            [
+                "ba",
+                "airline general",
+                "positive",
+                "happy"
+            ]
+        ],
+        [
+            [
+                "carry on",
+                "airline price",
+                "positive",
+                "checked it in at no additional cost"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "negative",
+                "pay extra"
+            ]
+        ],
+        [
+            [
+                "drink with meal",
+                "onboard food",
+                "negative",
+                "no"
+            ]
+        ],
+        [
+            [
+                "board",
+                "airport operation boarding",
+                "negative",
+                "long wait"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline price",
+                "positive",
+                "cheaper"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "incompetent"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "decent"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "just money money money"
+            ],
+            [
+                "customer care",
+                "airline service",
+                "negative",
+                "no"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "on board service",
+                "airline service",
+                "positive",
+                "efficient"
+            ],
+            [
+                "on board service",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "well"
+            ],
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "wizz air",
+                "airline general",
+                "positive",
+                "will fly with this company again"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "polite"
+            ]
+        ],
+        [
+            [
+                "bag",
+                "airport operation baggage",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "5*"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "avoid avoid avoid"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "positive",
+                "recommend"
+            ]
+        ],
+        [
+            [
+                "easyjet",
+                "airline general",
+                "negative",
+                "lot to improve"
+            ]
+        ],
+        [
+            [
+                "ba",
+                "airline general",
+                "positive",
+                "shout out"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "neutral",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "welcoming"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helping"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "sas",
+                "airline general",
+                "negative",
+                "zero-star rating"
+            ]
+        ],
+        [
+            [
+                "crew members",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "thank"
+            ]
+        ],
+        [
+            [
+                "outbound",
+                "airline general",
+                "neutral",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "aircraft",
+                "airline general",
+                "positive",
+                "new"
+            ],
+            [
+                "space",
+                "onboard seat legroom",
+                "negative",
+                "too limited"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "dreadful"
+            ]
+        ],
+        [
+            [
+                "check in process",
+                "airport operation check_in",
+                "negative",
+                "joke"
+            ],
+            [
+                "NULL",
+                "onboard price",
+                "negative",
+                "charge everyone for seat selection"
+            ],
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "not good"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "smooth"
+            ],
+            [
+                "jet 2 staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "jet 2 staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "fight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "refund me at all"
+            ],
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "never emailed me back"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "positive",
+                "refreshing change"
+            ],
+            [
+                "turkish airlines",
+                "airline general",
+                "positive",
+                "loads better than ba"
+            ]
+        ],
+        [
+            [
+                "pricing",
+                "airline price",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "world traveller cabin",
+                "onboard cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "wifi",
+                "onboard entertainment",
+                "negative",
+                "not working"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "onboard cleanliness",
+                "positive",
+                "clean"
+            ],
+            [
+                "leg room",
+                "onboard seat legroom",
+                "positive",
+                "better"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "better"
+            ]
+        ],
+        [
+            [
+                "charter flight",
+                "airline general",
+                "positive",
+                "smooth"
+            ]
+        ],
+        [
+            [
+                "space",
+                "onboard seat legroom",
+                "negative",
+                "small"
+            ]
+        ],
+        [
+            [
+                "leg room",
+                "onboard seat legroom",
+                "negative",
+                "poor"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "cramped"
+            ]
+        ],
+        [
+            [
+                "stuff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "ba",
+                "airline general",
+                "negative",
+                "never"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "avoid"
+            ]
+        ],
+        [
+            [
+                "return flight",
+                "airline general",
+                "positive",
+                "better"
+            ]
+        ],
+        [
+            [
+                "boarding",
+                "airport operation boarding",
+                "positive",
+                "clean"
+            ],
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "jet2",
+                "punctuality general",
+                "negative",
+                "departing late"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "negative",
+                "kept serving him more alcohol exacerbating the issue"
+            ]
+        ],
+        [
+            [
+                "person",
+                "airline service",
+                "positive",
+                "thankyou"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "tap",
+                "airline general",
+                "positive",
+                "flexibility"
+            ],
+            [
+                "tap",
+                "airline general",
+                "positive",
+                "thanks"
+            ]
+        ],
+        [
+            [
+                "air france",
+                "airline general",
+                "negative",
+                "never"
+            ]
+        ],
+        [
+            [
+                "security",
+                "airport operation check_in",
+                "negative",
+                "long wait"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "excellent"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "fabulous"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "do not refund even if they done mistake"
+            ]
+        ],
+        [
+            [
+                "legroom",
+                "onboard seat legroom",
+                "positive",
+                "decent"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "positive",
+                "favorable"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "negative",
+                "advise others not to use"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "baggage drop",
+                "airport operation baggage",
+                "positive",
+                "easy"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "polite"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "decent"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "seats",
+                "onboard cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "brilliant"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "neutral",
+                "unexceptional"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "refused to reimburse me the difference in the cost of the flight"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "polite"
+            ],
+            [
+                "NULL",
+                "airline price",
+                "positive",
+                "good"
+            ],
+            [
+                "leg room",
+                "onboard seat legroom",
+                "positive",
+                "good"
+            ],
+            [
+                "communication",
+                "airline service",
+                "negative",
+                "poor"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpfull"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "never been disappointed"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "mess"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "check-in",
+                "airport operation check_in",
+                "positive",
+                "wonderful"
+            ],
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "pegasus",
+                "airline general",
+                "positive",
+                "good"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "NULL",
+                "airline price",
+                "positive",
+                "do a very"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "expensive"
+            ],
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "watery terrible"
+            ],
+            [
+                "headphone jack",
+                "onboard entertainment",
+                "negative",
+                "not working"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "ahead of schedule"
+            ]
+        ],
+        [
+            [
+                "bottle of prosecco",
+                "airline service",
+                "negative",
+                "arrived 30 mins later"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "efficient"
+            ],
+            [
+                "wait for security",
+                "airport operation check_in",
+                "positive",
+                "minimal"
+            ]
+        ],
+        [
+            [
+                "compensation",
+                "airline service",
+                "negative",
+                "refusing to pay"
+            ],
+            [
+                "delays",
+                "punctuality general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "booking",
+                "airline service",
+                "positive",
+                "easily"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "toilets",
+                "onboard cleanliness",
+                "negative",
+                "dirty"
+            ]
+        ],
+        [
+            [
+                "veggie meals",
+                "onboard food",
+                "negative",
+                "albeit only"
+            ],
+            [
+                "service",
+                "airline service",
+                "positive",
+                "fine"
+            ],
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "not the best"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "efficient"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "boarding",
+                "airport operation boarding",
+                "positive",
+                "efficient"
+            ]
+        ],
+        [
+            [
+                "baggage restrictions",
+                "airport operation baggage",
+                "negative",
+                "rubbish"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "negative",
+                "barely polite"
+            ]
+        ],
+        [
+            [
+                "help",
+                "airline service",
+                "negative",
+                "nothing happened"
+            ]
+        ],
+        [
+            [
+                "baggage handling",
+                "airport operation baggage",
+                "negative",
+                "poor"
+            ],
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "doesn't take responsibility"
+            ]
+        ],
+        [
+            [
+                "return flight",
+                "airline general",
+                "negative",
+                "nightmare"
+            ]
+        ],
+        [
+            [
+                "luggage",
+                "airport operation baggage",
+                "negative",
+                "delayed"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "1 star"
+            ]
+        ],
+        [
+            [
+                "planes",
+                "onboard cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "bowl",
+                "onboard food",
+                "negative",
+                "wasn't much better"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "horrible"
+            ],
+            [
+                "legroom",
+                "onboard seat legroom",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "neutral",
+                "okay"
+            ]
+        ],
+        [
+            [
+                "jet2 staff",
+                "airline service",
+                "positive",
+                "praise"
+            ]
+        ],
+        [
+            [
+                "costumer service",
+                "airline service",
+                "negative",
+                "made me miss this flight"
+            ]
+        ],
+        [
+            [
+                "qatar",
+                "airline general",
+                "positive",
+                "superb"
+            ],
+            [
+                "ba",
+                "airline general",
+                "negative",
+                "poor"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "rude"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "uncomfortable"
+            ],
+            [
+                "legroom",
+                "onboard seat legroom",
+                "negative",
+                "bad"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "wouldn\u2019t ever travel again"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "weren\u2019t overly comfortable"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "terrible experience"
+            ],
+            [
+                "luggage",
+                "airport operation baggage",
+                "negative",
+                "lost"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "below par"
+            ],
+            [
+                "options",
+                "onboard food",
+                "negative",
+                "bland"
+            ],
+            [
+                "options",
+                "onboard food",
+                "negative",
+                "unappealing"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "1:30 delay"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "1 hour delay"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "disappointment"
+            ]
+        ],
+        [
+            [
+                "customer care representative",
+                "airline service",
+                "negative",
+                "unhelpful"
+            ],
+            [
+                "customer care representative",
+                "airline service",
+                "negative",
+                "rude"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "professional"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "5 star experience"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "company",
+                "airline general",
+                "negative",
+                "caution others against booking"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "arrived late"
+            ]
+        ],
+        [
+            [
+                "check-in",
+                "airport operation check_in",
+                "negative",
+                "wasn't great"
+            ],
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "wasn't that helpful and co operative"
+            ]
+        ],
+        [
+            [
+                "air bridge",
+                "airport operation boarding",
+                "negative",
+                "no"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "delighted"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "positive",
+                "shines"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "negative",
+                "not great"
+            ]
+        ],
+        [
+            [
+                "easyjet",
+                "airline general",
+                "positive",
+                "didn\u2019t have any issues"
+            ]
+        ],
+        [
+            [
+                "flight attendants",
+                "airline service",
+                "positive",
+                "pleasant"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "worst value for money"
+            ],
+            [
+                "cancellations",
+                "punctuality general",
+                "negative",
+                "always"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline general",
+                "negative",
+                "not helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "below par"
+            ]
+        ],
+        [
+            [
+                "coffee",
+                "airline price",
+                "negative",
+                "\u20ac3.5"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "jet2",
+                "airline general",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "turbo"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed a total of 45 minutes"
+            ],
+            [
+                "ground crew operations",
+                "airline service",
+                "negative",
+                "understaffing"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "good"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "great"
+            ],
+            [
+                "in-flight entertainment",
+                "onboard entertainment",
+                "negative",
+                "no"
+            ],
+            [
+                "leg room",
+                "onboard seat legroom",
+                "negative",
+                "not a lot"
+            ],
+            [
+                "boarding procedures",
+                "airport operation boarding",
+                "positive",
+                "decent"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "wasn\u2019t great"
+            ]
+        ],
+        [
+            [
+                "turkish business class",
+                "airline general",
+                "positive",
+                "solid"
+            ]
+        ],
+        [
+            [
+                "person",
+                "airline service",
+                "positive",
+                "fabulous"
+            ],
+            [
+                "person",
+                "airline service",
+                "positive",
+                "professional"
+            ],
+            [
+                "person",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "person",
+                "airline service",
+                "positive",
+                "big shout"
+            ]
+        ],
+        [
+            [
+                "low-sodium meal",
+                "onboard food",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "pod seat",
+                "onboard seat comfort",
+                "negative",
+                "hard"
+            ],
+            [
+                "pod seat",
+                "onboard seat comfort",
+                "negative",
+                "overused"
+            ],
+            [
+                "pod seat",
+                "onboard seat comfort",
+                "negative",
+                "old"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "quick"
+            ],
+            [
+                "check in",
+                "airport operation check_in",
+                "positive",
+                "efficient"
+            ],
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "space for the legs",
+                "onboard seat legroom",
+                "positive",
+                "better"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "little late leaving"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline price",
+                "positive",
+                "got what we paid for"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "planes",
+                "airline general",
+                "positive",
+                "modern"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "planes",
+                "onboard cleanliness",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "person",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "person",
+                "airline service",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "jet2",
+                "airline general",
+                "positive",
+                "pleasure"
+            ]
+        ],
+        [
+            [
+                "company",
+                "airline general",
+                "negative",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "lousy"
+            ]
+        ],
+        [
+            [
+                "queue for check in",
+                "airport operation check_in",
+                "positive",
+                "small"
+            ],
+            [
+                "premium check",
+                "airport operation check_in",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "punctuality general",
+                "negative",
+                "can\u2019t do anything on time"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "professional"
+            ],
+            [
+                "airplane",
+                "airline general",
+                "positive",
+                "good"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "selection of movies",
+                "onboard entertainment",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "smoothly"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "ordeal"
+            ],
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "disappointing"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "cancelled"
+            ]
+        ],
+        [
+            [
+                "tap",
+                "airline general",
+                "positive",
+                "biggest local operator"
+            ]
+        ],
+        [
+            [
+                "jet 2",
+                "airline general",
+                "positive",
+                "happy"
+            ]
+        ],
+        [
+            [
+                "connections",
+                "punctuality general",
+                "positive",
+                "on time"
+            ],
+            [
+                "baggage",
+                "airport operation baggage",
+                "positive",
+                "delivered promptly"
+            ],
+            [
+                "airplane",
+                "airline general",
+                "positive",
+                "new"
+            ],
+            [
+                "airplane",
+                "airline general",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "negative",
+                "disgusting"
+            ]
+        ],
+        [
+            [
+                "after-sales service",
+                "airline service",
+                "negative",
+                "not customer friendly and helpful"
+            ],
+            [
+                "on-board service",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "jet2.com",
+                "airline general",
+                "positive",
+                "kudos"
+            ],
+            [
+                "service",
+                "airline service",
+                "positive",
+                "unique"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "rude"
+            ],
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "terrible"
+            ],
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "unhelpful"
+            ],
+            [
+                "services",
+                "airline service",
+                "negative",
+                "poor"
+            ]
+        ],
+        [],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "smooth"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "five star"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "not reliable"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "thank you"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "no major issue"
+            ]
+        ],
+        [
+            [
+                "scandinavian airlines",
+                "airline general",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "inflight service",
+                "airline service",
+                "positive",
+                "all provided"
+            ]
+        ],
+        [
+            [
+                "person from tui",
+                "airline service",
+                "negative",
+                "impossible to contact"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "attentive"
+            ]
+        ],
+        [
+            [
+                "ba",
+                "airline general",
+                "negative",
+                "poor"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "negative",
+                "zero"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "no sense"
+            ]
+        ],
+        [
+            [
+                "ba",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "jet 2",
+                "airline general",
+                "positive",
+                "put everyone else in the shade"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "new"
+            ],
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "huge"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "zero stars"
+            ]
+        ],
+        [
+            [
+                "plenty of access to drinks",
+                "onboard food",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "negative",
+                "not very friendly"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "polite"
+            ]
+        ],
+        [
+            [
+                "bcn to sfo",
+                "airline price",
+                "positive",
+                "roughly $220 per person"
+            ]
+        ],
+        [
+            [
+                "ba",
+                "airline general",
+                "positive",
+                "would definitely book"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "don\u2019t communicate if the flight will be delayed and/or what to expect"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "great"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "chaos"
+            ],
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "anything but good"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "neutral",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "lovely"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "delays"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "polite"
+            ],
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "spacious"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "shock"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "high"
+            ],
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "awful practice"
+            ],
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "shameful"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "shock"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "cancelled"
+            ]
+        ],
+        [
+            [
+                "virgin",
+                "airline price",
+                "negative",
+                "expensive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "onboard seat comfort",
+                "negative",
+                "cramped"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "\u00a348"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed 3 hours and 33 minutes"
+            ]
+        ],
+        [
+            [
+                "glass of water",
+                "onboard food",
+                "negative",
+                "could be free"
+            ]
+        ],
+        [
+            [
+                "jet 2",
+                "airline general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "seat",
+                "onboard seat comfort",
+                "negative",
+                "knees were touching the front one"
+            ],
+            [
+                "seat",
+                "onboard seat comfort",
+                "negative",
+                "could not fit in"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "too posh"
+            ]
+        ],
+        [
+            [
+                "cleanliness",
+                "onboard cleanliness",
+                "neutral",
+                "acceptable"
+            ],
+            [
+                "food",
+                "onboard food",
+                "neutral",
+                "acceptable"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "no delays"
+            ]
+        ],
+        [
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "worse"
+            ],
+            [
+                "cabin staff",
+                "airline service",
+                "negative",
+                "worse"
+            ],
+            [
+                "cabin staff",
+                "airline service",
+                "negative",
+                "tragic"
+            ],
+            [
+                "food",
+                "onboard food",
+                "negative",
+                "tragic"
+            ],
+            [
+                "plane",
+                "airline general",
+                "negative",
+                "older"
+            ],
+            [
+                "selection of drinks",
+                "onboard food",
+                "negative",
+                "limited"
+            ]
+        ],
+        [
+            [
+                "luggage",
+                "airport operation baggage",
+                "negative",
+                "no room"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "unhappy"
+            ],
+            [
+                "lady on report desk",
+                "airline service",
+                "negative",
+                "rude"
+            ]
+        ],
+        [
+            [
+                "air france",
+                "airline general",
+                "positive",
+                "preferred"
+            ],
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "loved"
+            ],
+            [
+                "treatment of the staff",
+                "airline service",
+                "positive",
+                "loved"
+            ]
+        ],
+        [
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "do not fly"
+            ]
+        ],
+        [
+            [
+                "lasagna",
+                "onboard food",
+                "positive",
+                "enjoyable"
+            ],
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "hot"
+            ],
+            [
+                "food",
+                "onboard food",
+                "positive",
+                "enjoyable"
+            ],
+            [
+                "lasagna",
+                "onboard food",
+                "positive",
+                "hot"
+            ]
+        ],
+        [
+            [
+                "sas",
+                "airline general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "positive",
+                "cheerful"
+            ],
+            [
+                "NULL",
+                "airline price",
+                "positive",
+                "cheap"
+            ]
+        ],
+        [
+            [
+                "flight attendants",
+                "airline service",
+                "negative",
+                "rudest"
+            ]
+        ],
+        [
+            [
+                "food service",
+                "airline service",
+                "negative",
+                "not of a big"
+            ],
+            [
+                "food",
+                "onboard food",
+                "neutral",
+                "3"
+            ],
+            [
+                "seats",
+                "onboard seat comfort",
+                "neutral",
+                "okay 3 stars"
+            ],
+            [
+                "service",
+                "airline service",
+                "negative",
+                "complicated"
+            ]
+        ],
+        [
+            [
+                "leg room",
+                "onboard seat legroom",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "wizz air",
+                "airline general",
+                "negative",
+                "horrendous"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airport operation boarding",
+                "negative",
+                "took an age"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "beautiful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "comfortable"
+            ],
+            [
+                "rest of the crew",
+                "airline service",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "compensation",
+                "airline price",
+                "positive",
+                "more than fair"
+            ],
+            [
+                "NULL",
+                "airport operation boarding",
+                "negative",
+                "couldn't board"
+            ]
+        ],
+        [
+            [
+                "check bag process",
+                "airport operation check_in",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "15 minute delay"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "snacks",
+                "onboard food",
+                "negative",
+                "no"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airport operation check_in",
+                "negative",
+                "messed up in their system"
+            ]
+        ],
+        [
+            [
+                "turkish airlines flight",
+                "airline price",
+                "negative",
+                "expensive"
+            ]
+        ],
+        [
+            [
+                "selection",
+                "onboard entertainment",
+                "positive",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "weren\u2019t happy"
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "negative",
+                "no help"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "onboard price",
+                "negative",
+                "\u00a317 extra"
+            ]
+        ],
+        [
+            [
+                "baggage handling",
+                "airport operation baggage",
+                "negative",
+                "negative experiences"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "delayed"
+            ],
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "cancelled"
+            ],
+            [
+                "treatment of the passengers between flights",
+                "airline service",
+                "negative",
+                "shocking"
+            ]
+        ],
+        [
+            [
+                "entertainment console speakers",
+                "onboard entertainment",
+                "negative",
+                "weren\u2019t working"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "better than i expected"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "seat",
+                "onboard seat comfort",
+                "negative",
+                "worst"
+            ]
+        ]
+    ],
+    "preds": [
+        [
+            [
+                "food",
+                "airline general",
+                "positive",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "customer treatment",
+                "punctuality general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "great, clean"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "disappointed"
+            ]
+        ],
+        [],
+        [
+            [
+                "ticket",
+                "airline price",
+                "negative",
+                "minimum"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "zero responsibility"
+            ]
+        ],
+        [],
+        [
+            [
+                "fee",
+                "airline price",
+                "negative",
+                "unreasonably high"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "generally underperfomed"
+            ]
+        ],
+        [],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worse"
+            ]
+        ],
+        [
+            [
+                "flight crew",
+                "airline general",
+                "positive",
+                "impressed"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "attentive"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "delayed for one hour"
+            ]
+        ],
+        [],
+        [
+            [
+                "business class",
+                "airline general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [
+            [
+                "attendant",
+                "airline price",
+                "negative",
+                "singling out people of color and making them pay extra"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "well"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "trying to book our luggage all the way through to vienna"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "punctuality general",
+                "negative",
+                "delayed 2 hours"
+            ]
+        ],
+        [
+            [
+                "movie selection",
+                "airline general",
+                "positive",
+                "first rate"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "welcomed"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "lovely"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "\"unavailable\""
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airline general",
+                "positive",
+                "breeze"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "2h30 delay"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "delayed by 70 minutes"
+            ]
+        ],
+        [],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "flight attendant",
+                "airline general",
+                "positive",
+                "compliment"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "enjoyed"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "airline service",
+                "positive",
+                "simple"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "smooth"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "positive",
+                "superb"
+            ]
+        ],
+        [],
+        [],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "used lots of times"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "full"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "delayed by 1 hour"
+            ]
+        ],
+        [
+            [
+                "baggage rule",
+                "airline general",
+                "negative",
+                "more enforcement"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "cramping"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline seat comfort",
+                "negative",
+                "narrow"
+            ]
+        ],
+        [
+            [
+                "food",
+                "punctuality general",
+                "positive",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "pay a bit more"
+            ]
+        ],
+        [
+            [
+                "seat",
+                "airline general",
+                "positive",
+                "okay"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "pleasantly surprised"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "conned"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "late taking off"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "company general",
+                "positive",
+                "joke"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "everything",
+                "punctuality general",
+                "positive",
+                "impressive"
+            ]
+        ],
+        [
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline general",
+                "positive",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "meals",
+                "punctuality general",
+                "negative",
+                "poor"
+            ]
+        ],
+        [
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "nervous"
+            ]
+        ],
+        [
+            [
+                "food",
+                "airline general",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "flight attendant",
+                "airline general",
+                "positive",
+                "best"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline general",
+                "negative",
+                "cramped"
+            ]
+        ],
+        [
+            [
+                "sas",
+                "airline service",
+                "positive",
+                "blessed to have this young lady on their team!"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "buyer beware"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline general",
+                "negative",
+                "letdown"
+            ]
+        ],
+        [
+            [
+                "jet2",
+                "airline general",
+                "positive",
+                "quite efficient"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "professional"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "okay"
+            ]
+        ],
+        [
+            [
+                "flight aalborg-copehagen",
+                "airline general",
+                "positive",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "flight crew",
+                "airline service",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "bag",
+                "airline service",
+                "negative",
+                "lost"
+            ]
+        ],
+        [],
+        [
+            [
+                "flight",
+                "airline service",
+                "negative",
+                "cancelled"
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "helpful"
+            ],
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "no compensation"
+            ]
+        ],
+        [
+            [
+                "check in and inflight teams",
+                "airline service",
+                "positive",
+                "greatly appreciated"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "roundtrip flights",
+                "airline general",
+                "positive",
+                "outstanding"
+            ]
+        ],
+        [
+            [
+                "food",
+                "punctuality general",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline comfort",
+                "positive",
+                "comfortable seating"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "check in",
+                "airline service",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "baggage drop off",
+                "airline service",
+                "negative",
+                "long"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "missing luggage"
+            ]
+        ],
+        [
+            [
+                "seat",
+                "airline service",
+                "negative",
+                "mixed up"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "fresh fruit and pastries"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "friendlier"
+            ]
+        ],
+        [
+            [
+                "entertainment system",
+                "onboard seat comfort",
+                "negative",
+                "very old"
+            ]
+        ],
+        [
+            [
+                "captain",
+                "airline general",
+                "positive",
+                "pleasant"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worst airline"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline seat comfort",
+                "negative",
+                "discrimination against tall people"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "connecting"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "negative",
+                "never have the pleasure of my company again"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "negative",
+                "not comfortable"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "very helpful"
+            ],
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "negative",
+                "chaos to board the aircraft"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline wide",
+                "positive",
+                "slightly wider"
+            ]
+        ],
+        [
+            [
+                "business class",
+                "airline general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "bad"
+            ]
+        ],
+        [
+            [
+                "flight from mykonos to athens",
+                "airline general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "polite"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline service",
+                "negative",
+                "rude"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "long lines"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "disgraceful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "never get any refund"
+            ]
+        ],
+        [
+            [
+                "passenger baggage behaviour",
+                "airline service",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "positive",
+                "pleasant"
+            ],
+            [
+                "flight",
+                "airline service",
+                "positive",
+                "uncomfortable"
+            ]
+        ],
+        [
+            [
+                "meals",
+                "punctuality general",
+                "positive",
+                "top notch"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "compensating"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "onboard seat comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "pleasant"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "worried"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline general",
+                "positive",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "not worth it"
+            ]
+        ],
+        [
+            [
+                "food/snacks",
+                "punctuality general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "regular ba travellers"
+            ]
+        ],
+        [
+            [
+                "carry on",
+                "airline price",
+                "negative",
+                "too large"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "no drink with meal"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "absolutely freezing"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline price",
+                "positive",
+                "cheaper"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "really decent"
+            ]
+        ],
+        [
+            [
+                "crystal ski",
+                "airline service",
+                "negative",
+                "no customer care"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "in how they dealt with the delay"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "delayed bag"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline general",
+                "positive",
+                "5*"
+            ]
+        ],
+        [],
+        [
+            [
+                "flights",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "avoid avoid avoid"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "positive",
+                "definitely fly lufthansa again"
+            ]
+        ],
+        [],
+        [
+            [
+                "ba",
+                "airline general",
+                "positive",
+                "shout out"
+            ]
+        ],
+        [
+            [
+                "service",
+                "punctuality general",
+                "positive",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "welcoming"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "zero-star"
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "thank them again"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "outbound man-ist leg ok"
+            ]
+        ],
+        [
+            [
+                "space",
+                "airline general",
+                "negative",
+                "limited"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "dreadful"
+            ]
+        ],
+        [
+            [
+                "food",
+                "airline service",
+                "negative",
+                "not good"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "fight",
+                "punctuality general",
+                "positive",
+                "pretty much on time"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "asked"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "positive",
+                "refreshing"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline price",
+                "positive",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline general",
+                "negative",
+                "sub par"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "not working"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "charter flight",
+                "airline general",
+                "positive",
+                "smooth"
+            ]
+        ],
+        [
+            [
+                "space",
+                "airline general",
+                "negative",
+                "really small"
+            ]
+        ],
+        [
+            [
+                "leg room",
+                "airline general",
+                "negative",
+                "poor"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline general",
+                "negative",
+                "cramped"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "never travel with ba again"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "in krakow"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "even better"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline price",
+                "positive",
+                "clean"
+            ]
+        ],
+        [
+            [
+                "jet2",
+                "airline service",
+                "negative",
+                "constantly departing late"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "negative",
+                "kept serving him more alcohol exacerbating the issue"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline service",
+                "positive",
+                "massive thankyou"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "thanks"
+            ]
+        ],
+        [
+            [
+                "air france",
+                "airline general",
+                "negative",
+                "never fly air france again"
+            ]
+        ],
+        [
+            [
+                "seat",
+                "airline seat comfort",
+                "negative",
+                "already occupied"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline delay",
+                "negative",
+                "promises new flight 12h later"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "fabulous"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "not refund"
+            ]
+        ],
+        [
+            [
+                "legroom",
+                "airline general",
+                "positive",
+                "decent"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "price",
+                "airline general",
+                "positive",
+                "favorable"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "excellent"
+            ],
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "baggage drop",
+                "airline general",
+                "positive",
+                "pretty easy"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline general",
+                "positive",
+                "brilliant"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "unexceptional"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline price",
+                "negative",
+                "refused"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "polite"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "disappointed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "food mess"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "wonderful"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "economy class",
+                "airline price",
+                "negative",
+                "expensive"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "pushed back early"
+            ]
+        ],
+        [],
+        [
+            [
+                "check in",
+                "airline service",
+                "positive",
+                "extremely efficient"
+            ]
+        ],
+        [],
+        [
+            [
+                "booking",
+                "airline general",
+                "positive",
+                "easily done"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "very good"
+            ]
+        ],
+        [
+            [
+                "toilets",
+                "punctuality general",
+                "negative",
+                "very dirty"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "fine"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "efficient"
+            ]
+        ],
+        [
+            [
+                "baggage restrictions",
+                "airline general",
+                "negative",
+                "rubbish"
+            ]
+        ],
+        [
+            [
+                "service",
+                "punctuality general",
+                "positive",
+                "barely polite"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "tried to get extra help but nothing happened"
+            ]
+        ],
+        [],
+        [
+            [
+                "return flight",
+                "airline general",
+                "negative",
+                "nightmare"
+            ]
+        ],
+        [
+            [
+                "luggage",
+                "airline service",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "planes",
+                "airline general",
+                "positive",
+                "clean"
+            ]
+        ],
+        [],
+        [
+            [
+                "airline legroom",
+                "airline general",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "okay"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "praise"
+            ]
+        ],
+        [],
+        [
+            [
+                "ba",
+                "airline general",
+                "negative",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "rude"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "punctuality general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "food quality",
+                "airline service",
+                "negative",
+                "below par"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "minus"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "horrible"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "huge disappointment"
+            ]
+        ],
+        [
+            [
+                "customer care representative",
+                "airline service",
+                "negative",
+                "rude"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "professional"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline comfort",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "caution"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "late"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "helpful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "no air bridge from our gate"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "delighted"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "positive",
+                "shine"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "nice"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "negative",
+                "not great"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "our first time travelling with easyjet"
+            ]
+        ],
+        [
+            [
+                "flight attendant",
+                "airline general",
+                "positive",
+                "pleasant"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "negative",
+                "delayed too much time wasted"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "negative",
+                "not helpful"
+            ]
+        ],
+        [
+            [
+                "airlines",
+                "airline general",
+                "negative",
+                "below par"
+            ]
+        ],
+        [
+            [
+                "coffee",
+                "airline price",
+                "negative",
+                "no one who pays \u20ac3.5 for a coffee should get the one i got date."
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "fantastic"
+            ]
+        ],
+        [
+            [
+                "lufthansa",
+                "airline service",
+                "positive",
+                "trying to get my luggage back"
+            ]
+        ],
+        [],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "least expensive"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "keep your good"
+            ]
+        ],
+        [],
+        [
+            [
+                "business class",
+                "airline general",
+                "positive",
+                "solid"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline service",
+                "positive",
+                "fabulous"
+            ]
+        ],
+        [
+            [
+                "meal",
+                "punctuality general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "business class",
+                "airline general",
+                "positive",
+                "excited"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [],
+        [
+            [
+                "coach class jaunt back to gatwick",
+                "airline service",
+                "negative",
+                "a little late leaving"
+            ]
+        ],
+        [
+            [
+                "planes",
+                "airline price",
+                "positive",
+                "modern"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "on time"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "amazing"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "total pleasure to travel with jet2"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "lousy"
+            ]
+        ],
+        [
+            [
+                "check in",
+                "punctuality general",
+                "positive",
+                "good"
+            ]
+        ],
+        [],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "professional"
+            ],
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "friendly"
+            ]
+        ],
+        [
+            [
+                "movies",
+                "punctuality general",
+                "positive",
+                "nice"
+            ]
+        ],
+        [],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "disappointing"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "cancelled"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "hard to understand"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "airplane",
+                "airline general",
+                "positive",
+                "new"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "absolutely disgusting"
+            ]
+        ],
+        [
+            [
+                "on-board service",
+                "airline service",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "unique"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "smooth flight"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "five star"
+            ]
+        ],
+        [
+            [
+                "airline",
+                "airline general",
+                "negative",
+                "not reliable"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "no major issue"
+            ]
+        ],
+        [
+            [
+                "scandinavian airlines",
+                "airline general",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "provided"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "great"
+            ]
+        ],
+        [
+            [
+                "cabin crew",
+                "airline service",
+                "positive",
+                "attentive"
+            ]
+        ],
+        [
+            [
+                "air france",
+                "airline general",
+                "positive",
+                "praise"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "over 40 minutes late"
+            ]
+        ],
+        [
+            [
+                "service",
+                "airline general",
+                "negative",
+                "zero"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "no sense of urgency"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "put everyone else in the shade"
+            ]
+        ],
+        [
+            [
+                "plane",
+                "airline general",
+                "positive",
+                "huge plane"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "zero stars"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "not very friendly"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "much nicer"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "full"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "thank you"
+            ]
+        ],
+        [
+            [
+                "food",
+                "punctuality general",
+                "positive",
+                "good"
+            ]
+        ],
+        [],
+        [
+            [
+                "lufthansa",
+                "airline general",
+                "positive",
+                "ok"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [
+            [
+                "staff",
+                "airline service",
+                "positive",
+                "lovely"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "picked up a couple of delays"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "positive",
+                "impeccably comfortable"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "shock"
+            ]
+        ],
+        [
+            [
+                "food",
+                "punctuality general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "ryanair",
+                "airline general",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline general",
+                "negative",
+                "shock"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline service",
+                "negative",
+                "cancelled"
+            ]
+        ],
+        [
+            [
+                "package holiday",
+                "airline price",
+                "negative",
+                "more expensive"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "quite cramped"
+            ]
+        ],
+        [],
+        [
+            [
+                "flight",
+                "airline general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "free"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline service",
+                "positive",
+                "excellent"
+            ]
+        ],
+        [],
+        [
+            [
+                "food",
+                "airline general",
+                "negative",
+                "too posh"
+            ]
+        ],
+        [
+            [
+                "food",
+                "airline general",
+                "positive",
+                "acceptable"
+            ]
+        ],
+        [
+            [
+                "passengers",
+                "airline service",
+                "negative",
+                "not being happy"
+            ]
+        ],
+        [
+            [
+                "cabin staff",
+                "airline general",
+                "negative",
+                "worse"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "air france staff",
+                "airline general",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "unhappy"
+            ]
+        ],
+        [
+            [
+                "air france",
+                "airline general",
+                "positive",
+                "preferred"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "not fly ryanair"
+            ]
+        ],
+        [
+            [
+                "hot food",
+                "airline general",
+                "positive",
+                "always hot"
+            ]
+        ],
+        [
+            [
+                "flights",
+                "airline general",
+                "negative",
+                "delayed"
+            ]
+        ],
+        [],
+        [
+            [
+                "flight attendant",
+                "airline general",
+                "negative",
+                "rude"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline general",
+                "positive",
+                "okay"
+            ]
+        ],
+        [
+            [
+                "leg room",
+                "airline general",
+                "positive",
+                "good"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "horrendous"
+            ]
+        ],
+        [],
+        [
+            [
+                "british airways",
+                "airline general",
+                "negative",
+                "terrible"
+            ]
+        ],
+        [
+            [
+                "flight",
+                "airline general",
+                "positive",
+                "beautiful"
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "comfortable"
+            ]
+        ],
+        [
+            [
+                "crew",
+                "airline service",
+                "positive",
+                "superb"
+            ]
+        ],
+        [
+            [
+                "flight to toronto",
+                "airline price",
+                "negative",
+                "overbooked"
+            ]
+        ],
+        [
+            [
+                "check bag",
+                "airline general",
+                "negative",
+                "worst"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "15 minute delay"
+            ]
+        ],
+        [
+            [
+                "customer service",
+                "airline service",
+                "negative",
+                "awful"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "no snacks"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "in group 1 boarding"
+            ]
+        ],
+        [
+            [
+                "turkish airlines",
+                "airline price",
+                "negative",
+                "very expensive"
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [],
+        [
+            [
+                "crew",
+                "airline service",
+                "negative",
+                "absolutely no help"
+            ]
+        ],
+        [
+            [
+                "seats",
+                "airline price",
+                "positive",
+                "\u00a317 extra per person"
+            ]
+        ],
+        [
+            [
+                "baggage handling",
+                "airline general",
+                "positive",
+                "done by a third party agency, not air france."
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "airline general",
+                "negative",
+                "caught up"
+            ]
+        ],
+        [],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "positive",
+                "better"
+            ]
+        ],
+        [
+            [
+                "NULL",
+                "punctuality general",
+                "negative",
+                "worst"
+            ]
+        ],
+        []
+    ]
+}
