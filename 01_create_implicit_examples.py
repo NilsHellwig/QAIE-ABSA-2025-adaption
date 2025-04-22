@@ -44,6 +44,15 @@ def ask_question(question, x):
 
 def do_augmentation(data_path, datai_path):
     sents, reviews, labels = read_line_examples_from_file(data_path, silence=True)
+    
+    labels = [
+        [
+            (tup[0] if tup[0] != "NULL" else "none", *tup[1:])
+            for tup in label_group
+        ]
+        for label_group in labels
+    ]
+
 
     answers = []
     i = 0
@@ -78,24 +87,24 @@ DATASET_TYPE = ["dev", "test"]
 
 for task in TASKS:
     for dataset in DATASETS:
-        for dataset_type in DATASET_TYPE:
+        # for dataset_type in DATASET_TYPE:
 
-            data_path = (
-                f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
-            )
-            datai_path = (
-                f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_im.txt"
-            )
-            # create datai directories if not exist
-            datai_dir = os.path.dirname(datai_path)
-            if not os.path.exists(datai_dir):
-                os.makedirs(datai_dir)
+        #     data_path = (
+        #         f"../zero-shot-absa-quad/datasets/{task}/{dataset}/{dataset_type}.txt"
+        #     )
+        #     datai_path = (
+        #         f"./02_dataset_augmentations/{task}/{dataset}/{dataset_type}_im.txt"
+        #     )
+        #     # create datai directories if not exist
+        #     datai_dir = os.path.dirname(datai_path)
+        #     if not os.path.exists(datai_dir):
+        #         os.makedirs(datai_dir)
 
-            # do only run if datai_path does not exist
-            if os.path.exists(datai_path):
-                print(f"{datai_path} already exists, skipping...")
-                continue
-            do_augmentation(data_path, datai_path)
+        #     # do only run if datai_path does not exist
+        #     if os.path.exists(datai_path):
+        #         print(f"{datai_path} already exists, skipping...")
+        #         continue
+        #     do_augmentation(data_path, datai_path)
 
         # create reasoning for the augmented examples based on fs
         for n_shot in N_SHOTS:
