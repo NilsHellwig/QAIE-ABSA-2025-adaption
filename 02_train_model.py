@@ -335,8 +335,8 @@ if args.do_direct_eval:
     with open(args.log_file_path, 'w') as f:
         res = {
             "scores": scores,
-            "labels": all_labels,
-            "preds": all_preds
+            "all_labels": all_labels,
+            "all_preds": all_preds
         }
         # convert to json
         json.dump(res, f, indent=4)
