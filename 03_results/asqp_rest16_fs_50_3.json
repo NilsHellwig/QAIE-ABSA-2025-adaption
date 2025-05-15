@@ -4,7 +4,7 @@
         "recall": 0.34248366013071896,
         "f1": 0.3567052416609938
     },
-    "labels": [
+    "all_labels": [
         [
             [
                 "service",
@@ -5663,7 +5663,7 @@
             ]
         ]
     ],
-    "preds": [
+    "all_preds": [
         [
             [
                 "service",
