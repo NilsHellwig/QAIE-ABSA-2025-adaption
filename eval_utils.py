@@ -8,18 +8,8 @@ import logging
 import time
 import pickle
 from tqdm import tqdm
-import torch
-from torch.utils.data import DataLoader, Sampler
-from torch.utils.data import Dataset
-import pytorch_lightning as pl
-from pytorch_lightning import seed_everything
-import torch.nn as nn
-from transformers import AdamW, T5ForConditionalGeneration, T5Tokenizer
-# from transformers import BertTokenizer, EncoderDecoderModel
-from transformers import get_linear_schedule_with_warmup
 import re
 from data_utils import aspect_cate_list
-import spacy 
 import editdistance
 from data_utils import read_line_examples_from_file
 

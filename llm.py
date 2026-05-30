@@ -1,72 +1,96 @@
-import ollama
-import time
-import requests
-from openai import OpenAI
 import os
+import torch
+import time
+import json
+import sys
+from vllm import LLM, SamplingParams
+from qaie_const import TOOLKIT_PATH, MODEL_NAME_BASE
 
+# Add toolkit path for GPUMonitor
+sys.path.append(TOOLKIT_PATH)
+try:
+    from gpu_monitor import GPUMonitor
+except ImportError:
+    print(f"Warning: GPUMonitor not found in {TOOLKIT_PATH}")
+    GPUMonitor = None
 
-class LLM:
-    def __init__(
-        self,
-        base_model="gemma3:27b",
-        gwdg_token="",
-        openai_token="",
-        parameters=[
-            {"name": "stop", "value": ["\\n"]},
-            {"name": "num_ctx", "value": "8192"},
-        ],
-    ):
-        self.model_name = base_model
-        self.gwdg_token = gwdg_token
-        self.openai_token = openai_token
+class VLLMWrapper:
+    def __init__(self, model_name=MODEL_NAME_BASE, max_model_len=8192):
+        print(f"Initializing vLLM with model: {model_name}")
+        self.model_name = model_name
+        self.llm = LLM(
+            model=model_name,
+            dtype=torch.bfloat16,
+            trust_remote_code=True,
+            max_model_len=max_model_len,
+            # max_num_seqs=1024, # Adjust based on GPU memory
+            seed=0
+        )
+        self.sampling_params = SamplingParams(
+            temperature=0.8,
+            top_p=0.95,
+            max_tokens=512,
+            stop=["\n", "####"] 
+        )
 
-        if self.openai_token != "":
-            self.openai_client = OpenAI(api_key=self.openai_token)
-
-    def predict(self, prompt, seed=0, stop=["]"], temperature=0.8):
-        prediction_start_time = time.time()
-        if self.gwdg_token == "" and self.openai_token == "":
-            response_generated = False
-            while not response_generated:
-                response = ollama.generate(
-                    model=self.model_name,
-                    options=dict(
-                        seed=seed, temperature=temperature, num_ctx=4096, stop=stop
-                    ),
-                    prompt=prompt,
-                )
-                response_generated = True
-            response = response["response"]
-        if self.openai_token != "":
-            chat_completion = self.openai_client.chat.completions.create(
-                messages=[{"role": "user", "content": prompt, "stop": ["]"]}],
-                model=self.model_name,
-            )
-            response = chat_completion.choices[0].message.content
-
-        if self.gwdg_token != "":
-            url = "https://chat-ai.academiccloud.de/v1/completions"
-
-            headers = {
-                "Accept": "application/json",
-                "Authorization": f"Bearer {self.gwdg_token}",
-                "Content-Type": "application/json",
+    def generate(self, prompts, sampling_params=None, use_gpu_monitor=True, monitor_name="llm_generation"):
+        if sampling_params is None:
+            sampling_params = self.sampling_params
+            
+        gpu_stats = {}
+        if use_gpu_monitor and GPUMonitor:
+            monitor = GPUMonitor()
+            monitor.start()
+            
+        outputs = self.llm.generate(prompts, sampling_params)
+        
+        if use_gpu_monitor and GPUMonitor:
+            avg_watt, total_time = monitor.stop()
+            gpu_stats = {
+                "monitor_name": monitor_name,
+                "avg_watt": avg_watt,
+                "total_time": total_time,
+                "n_prompts": len(prompts)
             }
+            
+        responses = [output.outputs[0].text.strip() for output in outputs]
+        
+        return responses, gpu_stats
 
-            data = {
-                "model": self.model_name,
-                "prompt": prompt,
-                "max_tokens": 200,
-                "temperature": 0.8,
-                "stop": ["]"],
+    def chat(self, messages, sampling_params=None, use_gpu_monitor=True, monitor_name="llm_chat"):
+        if sampling_params is None:
+            sampling_params = self.sampling_params
+            
+        gpu_stats = {}
+        if use_gpu_monitor and GPUMonitor:
+            monitor = GPUMonitor()
+            monitor.start()
+            
+        outputs = self.llm.chat(messages, sampling_params)
+        
+        if use_gpu_monitor and GPUMonitor:
+            avg_watt, total_time = monitor.stop()
+            gpu_stats = {
+                "monitor_name": monitor_name,
+                "avg_watt": avg_watt,
+                "total_time": total_time,
+                "n_messages": len(messages)
             }
+            
+        responses = [output.outputs[0].text.strip() for output in outputs]
+        
+        return responses, gpu_stats
 
-            response = (
-                requests.post(url, json=data, headers=headers).json()["choices"][0][
-                    "text"
-                ]
-                + "]"
-            )
+# Global instance to avoid multiple initializations
+_llm_instance = None
 
-        duration = time.time() - prediction_start_time
-        return response, duration
+def get_llm(model_name="google/gemma-4-31b"):
+    global _llm_instance
+    if _llm_instance is None:
+        _llm_instance = VLLMWrapper(model_name=model_name)
+    return _llm_instance
+
+class LLM_Old:
+    # Dummy class for compatibility if needed during transition
+    pass
+

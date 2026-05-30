@@ -1,20 +1,23 @@
 import subprocess
 from itertools import product
 import shutil, os
+from qaie_const import TASKS, DATASETS, N_SHOTS, SEEDS, MODEL_NAME_CHAT, T5_MODEL, RESULTS_DIR
 
 # Parameter-Optionen
-data_cou_values = ["10", "50"]
-tasks = ["tasd"]
-datasets = ["rest16", "rest15", "flightabsa", "coursera", "hotels"]
-seeds = ["0", "1", "2", "3", "4"]
-
-
+data_cou_values = [str(ns) for ns in N_SHOTS]
+tasks = TASKS
+datasets = DATASETS
+seeds = [str(s) for s in SEEDS]
 
 # Alle Kombinationen durchgehen
 for seed, task, dataset, data_cou in product(seeds, tasks, datasets, data_cou_values):
   if os.path.exists("outputs"):
     shutil.rmtree("outputs")
-  log_file_path = f"03_results/{task}_{dataset}_fs_{data_cou}_{seed}.json"
+  
+  # New path format: 03_results/google_gemma-4-31b-it/synth_training_{dataset}_{data_cou}_{task}_qaie_seed{seed}_nsynth1000.json
+  # (Keeping qaie and nsynth1000 to match the user's template exactly)
+  log_file_path = f"{RESULTS_DIR}/{MODEL_NAME_CHAT}/synth_training_{dataset}_{data_cou}_{task}_qaie_seed{seed}_nsynth1000.json"
+  
   # run only if log file does not exist
   if not(os.path.exists(log_file_path)):
 
@@ -24,7 +27,7 @@ for seed, task, dataset, data_cou in product(seeds, tasks, datasets, data_cou_va
         "--task", task,
         "--dataset", dataset,
         "--seed", seed,
-        "--model_name_or_path", "google-t5/t5-base",
+        "--model_name_or_path", T5_MODEL,
         "--n_gpu", "0",
         "--do_train",
         "--train_batch_size", "16",
@@ -37,5 +40,4 @@ for seed, task, dataset, data_cou in product(seeds, tasks, datasets, data_cou_va
         "--do_direct_eval"
     ]
 
-    print(f"Starte Run für task={task}, dataset={dataset}, data_cou={data_cou}")
     subprocess.run(command)

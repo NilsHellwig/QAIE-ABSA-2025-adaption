@@ -4,7 +4,7 @@
 
 import random
 from torch.utils.data import Dataset
-import spacy 
+from qaie_const import TOOLKIT_PATH, AUG_FS_DIR, DATASET_AUG_DIR
 
 senttag2word = {'POS': 'positive', 'NEG': 'negative', 'NEU': 'neutral'}
 senttag2opinion = {'POS': 'great', 'NEG': 'bad', 'NEU': 'ok'}
@@ -283,18 +283,14 @@ def get_transformed_io(task, data_path, data_im_path):
     return inputs, targets
 
 class ABSADataset(Dataset):
-    def __init__(self, tokenizer, data_dir, absa_task, data_count, data_type, max_len=128):
-
+    def __init__(self, tokenizer, data_dir, absa_task, data_count, data_type, seed=0, max_len=128):
 
         if data_type == 'train':
-            self.data_path = f'./01_augmentations/fs_examples/{absa_task}/{data_dir}/fs_{data_count}/aug.txt'   
-            self.data_im_path = f'./01_augmentations/fs_examples/{absa_task}/{data_dir}/fs_{data_count}/aug_im.txt'   
-        elif data_type == 'dev':
-            self.data_path = f'../zero-shot-absa-quad/datasets/{absa_task}/{data_dir}/{data_type}.txt'
-            self.data_im_path = f'./02_dataset_augmentations/{absa_task}/{data_dir}/{data_type}_im.txt'   
+            self.data_path = f'{AUG_FS_DIR}/{absa_task}/{data_dir}/fs_{data_count}/seed_{seed}/aug.txt'   
+            self.data_im_path = f'{AUG_FS_DIR}/{absa_task}/{data_dir}/fs_{data_count}/seed_{seed}/aug_im.txt'   
         else:
-            self.data_path = f'../zero-shot-absa-quad/datasets/{absa_task}/{data_dir}/{data_type}.txt'
-            self.data_im_path = f'./02_dataset_augmentations/{absa_task}/{data_dir}/{data_type}_im.txt'   
+            self.data_path = f'{TOOLKIT_PATH}/data/datasets/{absa_task}/{data_dir}/{data_type}.txt'
+            self.data_im_path = f'{DATASET_AUG_DIR}/{absa_task}/{data_dir}/{data_type}_im.txt'   
 
         self.absa_task = absa_task
         self.data_type = data_type
@@ -302,6 +298,7 @@ class ABSADataset(Dataset):
         self.tokenizer = tokenizer
         self.data_dir = data_dir
         self.data_count = data_count
+        self.seed = seed
         self.inputs = []
         self.targets = []
         self._build_examples()
@@ -322,11 +319,8 @@ class ABSADataset(Dataset):
     def _build_examples(self):
 
         
-        if self.data_type == 'train' or self.data_type == 'dev':
+        if self.data_type == 'train':
             inputs, targets = f_get_transformed_io(self.data_path, self.data_im_path, self.absa_task)
-            if self.data_type == 'dev':
-                inputs = inputs[:64]
-                targets = targets[:64]
         else:
             inputs, targets = get_transformed_io(self.absa_task, self.data_path, self.data_im_path) 
 
@@ -335,12 +329,12 @@ class ABSADataset(Dataset):
             input = ' '.join(inputs[i])
             target = targets[i]
 
-            tokenized_input = self.tokenizer.batch_encode_plus(
-              [input], max_length=self.max_len, padding="max_length",
+            tokenized_input = self.tokenizer(
+              input, max_length=self.max_len, padding="max_length",
               truncation=True, return_tensors="pt"
             )
-            tokenized_target = self.tokenizer.batch_encode_plus(
-              [target], max_length=self.max_len, padding="max_length",
+            tokenized_target = self.tokenizer(
+              target, max_length=self.max_len, padding="max_length",
               truncation=True, return_tensors="pt"
             )
 
